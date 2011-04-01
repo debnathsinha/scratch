@@ -1,0 +1,9 @@
+TARGETS = server
+
+OBJS = server.o
+
+all:
+	gcc -o ${TARGETS} server.c
+
+%.o: %.c
+	gcc -o $@ -c $<

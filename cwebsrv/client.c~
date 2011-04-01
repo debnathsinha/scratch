@@ -1,0 +1,29 @@
+#include <sys/socket.h>
+#include <sys/proc_info.h>
+#include <sys/types.h>
+#include <stdio.h>
+
+int main() {
+
+  char buf[4096];
+  int len;
+  int fd;
+  struct sockaddr_in si;
+
+  if( (fd = socket(AF_INET, SOCK_STREAM, 0)) == -1 ) {
+    perror("foo");
+  }
+  si.sin_family = AF_INET;
+  inet_aton("127.0.0.1", &si.sin_addr);
+  si.sin_port = htons(6780);
+  if( (connect(fd,(struct sockaddr*)&si, sizeof si)) == -1 ) {
+    perror("foo2");
+  }
+  if( (write(fd, "GET / HTTP/1.0\r\n\r\n", 22)) == -1 ) {
+    perror("foo3");
+  }
+  printf("wrote\n");
+  len = read(fd, buf, sizeof buf);
+  printf("read: %s\n", buf);
+  close(fd);
+}
