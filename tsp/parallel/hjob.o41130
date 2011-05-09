@@ -1,0 +1,51 @@
+Hi in even processor 2 
+Hi in even processor 4 
+Hi in even processor 6 
+Hi in odd processor 5
+Hi in even processor 6 
+sent the message in even proc6
+Hi in even processor 8 
+Hi in even processor 12 
+Hi in even processor 12 
+sent the message in even proc12
+Hi in even processor 8 
+sent the message in even proc8
+Hi in even processor 2 
+Hi in even processor 14 
+Hi in even processor 14 
+sent the message in even proc14
+Hi in even processor 16 
+Hi in odd processor 13
+Hi in even processor 4 
+Hi in odd processor 7
+sent the message in even proc2
+8 received in odd 4 
+12 received in odd 6 
+Hi in even processor 18 
+24 received in odd 12 
+sent the message in even proc4
+Hi in even processor 16 
+Hi in odd processor 9
+Hi in odd processor 15
+sent the message in even proc16
+16 received in odd 8 
+Hi in odd processor 3
+Hi in even processor 18 
+sent the message in even proc18
+Hi in odd processor 17
+Hi in odd processor 19
+28 received in odd 14 
+4 received in odd 2 
+Hi in odd processor 11
+32 received in odd 16 
+36 received in odd 18 
+Hi in even processor 0 
+Hi in even processor 0 
+sent the message in even proc0
+Hi in odd processor 1
+0 received in odd 0 
+20 received in odd 10 
+Hi in even processor 10 
+Hi in even processor 10 
+sent the message in even proc10
+11 additional processes aborted (not shown)

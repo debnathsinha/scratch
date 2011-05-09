@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -N hjob
+#PBS -V
+#PBS -l nodes=2,walltime=1:00
+#PBS -q eecs587
+cd ~
+mpirun -np 4 ./a.out
+

@@ -1,0 +1,10 @@
+=>> PBS: job killed: walltime 3615 exceeded limit 3600
+mpirun: killing job...
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx037
+PID:  14786
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------

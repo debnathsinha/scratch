@@ -1,0 +1,163 @@
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+
+
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+
+
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	96:0	
+40:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	11:0	100:0	
+79:0	64:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	78:0	53:0	77:0	
+80:0	72:0	52:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	
+92:0	15:0	84:0	90:0	90:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	86:0	27:0	
+20:0	61:0	62:0	29:0	35:0	54:0	38:0	77:0	52:0	67:0	54:0	4:0	44:0	94:0	94:0	
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+34:0	2:0	30:0	36:0	7:0	38:0	73:0	29:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+77:0	25:0	64:0	81:0	3:0	77:0	29:0	83:0	34:0	23:0	90:0	36:0	69:0	96:0	59:0	
+28:0	14:0	53:0	92:0	46:0	52:0	74:0	34:0	66:0	86:0	44:0	93:0	40:0	82:0	69:0	
+56:0	81:0	50:0	7:0	7:0	67:0	64:0	23:0	86:0	92:0	49:0	22:0	96:0	93:0	15:0	
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+48:0	16:0	98:0	95:0	24:0	54:0	36:0	90:0	44:0	49:0	89:0	65:0	44:0	62:0	29:0	
+63:0	41:0	30:0	53:0	98:0	4:0	69:0	36:0	93:0	22:0	65:0	79:0	31:0	45:0	23:0	
+37:0	13:0	78:0	9:0	91:0	44:0	17:0	69:0	40:0	96:0	44:0	31:0	19:0	28:0	56:0	
+52:0	11:0	53:0	20:0	86:0	94:0	45:0	96:0	82:0	93:0	62:0	45:0	28:0	42:0	17:0	
+96:0	100:0	77:0	67:0	27:0	94:0	89:0	59:0	69:0	15:0	29:0	23:0	56:0	17:0	91:0	
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+There should now be 20 elements in the queue and nsend:0
+The time taken for the bfs was 0.018035 and 0 nodes were successful
+Processor 5 is now out of work and its best is 349!!!
+Processor 14 is now out of work and its best is 284!!!
+Processor 1 is now out of work and its best is 10000!!!
+Processor 9 is now out of work and its best is 264!!!
+Processor 8 is now out of work and its best is 304!!!
+Processor 6 is now out of work and its best is 292!!!
+Processor 2 is now out of work and its best is 283!!!
+Processor 15 is now out of work and its best is 296!!!
+Processor 7 is now out of work and its best is 293!!!
+Processor 4 is now out of work and its best is 285!!!
+Processor 13 is now out of work and its best is 277!!!
+Processor 12 is now out of work and its best is 284!!!
+Processor 3 is now out of work and its best is 264!!!
+Processor 11 is now out of work and its best is 275!!!
+Processor 10 is now out of work and its best is 294!!!
+PROC 0 now out of work and its best is 289
+Time taken by processor 0 is 93.552601
+2 says the best was 283 and ubsuc:1 lbsuc:0.000000
+8 says the best was 304 and ubsuc:7 lbsuc:0.000000
+8 entered dfs 1749179 times and time : 144.508581 ; upperb changed:9 times and did not 4 times
+6 says the best was 292 and ubsuc:6 lbsuc:0.000000
+2 entered dfs 1881375 times and time : 160.759282 ; upperb changed:12 times and did not 2 times
+[8]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[8]:18.206228
+This was asktest.c for 23 nodes
+TIME:93.582665
+12 says the best was 284 and ubsuc:0 lbsuc:0.000000
+12 entered dfs 2264574 times and time : 202.231366 ; upperb changed:15 times and did not 2 times
+[12]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[12]:24.962360
+This was asktest.c for 23 nodes
+TIME:93.573632
+9 says the best was 264 and ubsuc:9 lbsuc:0.000000
+6 entered dfs 1728749 times and time : 154.344203 ; upperb changed:9 times and did not 4 times
+[2]:NUMBER OF LEAVES 0.000000
+7 says the best was 293 and ubsuc:2 lbsuc:0.000000
+7 entered dfs 2099461 times and time : 170.617427 ; upperb changed:13 times and did not 2 times
+11 says the best was 275 and ubsuc:1 lbsuc:0.000000
+10 says the best was 294 and ubsuc:6 lbsuc:0.000000
+10 entered dfs 2094135 times and time : 213.028957 ; upperb changed:12 times and did not 3 times
+[10]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[10]:26.625278
+This was asktest.c for 23 nodes
+TIME:93.571852
+14 says the best was 284 and ubsuc:4 lbsuc:0.000000
+15 says the best was 296 and ubsuc:0 lbsuc:0.000000
+[6]:NUMBER OF LEAVES 0.000000
+1 says the best was 10000 and ubsuc:0 lbsuc:0.000000
+1 entered dfs 1385961 times and time : 110.623669 ; upperb changed:11 times and did not 2 times
+[7]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[7]:21.101677
+This was asktest.c for 23 nodes
+TIME:93.583009
+11 entered dfs 2424679 times and time : 209.610316 ; upperb changed:14 times and did not 2 times
+9 entered dfs 1769630 times and time : 132.828323 ; upperb changed:10 times and did not 2 times
+13 says the best was 277 and ubsuc:5 lbsuc:0.000000
+15 entered dfs 1951237 times and time : 164.114189 ; upperb changed:14 times and did not 2 times
+[15]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[15]:20.271804
+This was asktest.c for 23 nodes
+TIME:93.582935
+5 says the best was 349 and ubsuc:0 lbsuc:0.000000
+[1]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[1]:13.977731
+This was asktest.c for 23 nodes
+[11]:NUMBER OF LEAVES 0.000000
+[9]:NUMBER OF LEAVES 0.000000
+14 entered dfs 1562468 times and time : 102.477270 ; upperb changed:6 times and did not 5 times
+[14]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[14]:13.087070
+This was asktest.c for 23 nodes
+TIME:93.565094
+5 entered dfs 1087677 times and time : 84.638122 ; upperb changed:8 times and did not 2 times
+[5]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[5]:11.205034
+TIME:93.577075
+TOTAL TIME INSIDE DFS[11]:25.342811
+TOTAL TIME INSIDE DFS[9]:16.645375
+13 entered dfs 2161766 times and time : 182.851082 ; upperb changed:12 times and did not 2 times
+This was asktest.c for 23 nodes
+TOTAL TIME INSIDE DFS[2]:19.985773
+This was asktest.c for 23 nodes
+This was asktest.c for 23 nodes
+[13]:NUMBER OF LEAVES 0.000000
+TIME:93.582974
+This was asktest.c for 23 nodes
+TIME:93.583028
+TIME:93.582970
+TOTAL TIME INSIDE DFS[13]:22.368695
+TOTAL TIME INSIDE DFS[6]:19.172210
+TIME:93.577478
+This was asktest.c for 23 nodes
+This was asktest.c for 23 nodes
+TIME:93.582913
+TIME:93.583368
+
+0 says the best was 264 and ubsuc:10 lbsuc:4
+0 eneter dfs 7026683 times and time was 736.424889 and upperbound changed 0 times and did not 0 times
+[0]:NUMBER OF LEAVES -1073747904
+TOTAL TIME INSIDE DFS[0]:45.387747
+4 says the best was 285 and ubsuc:2 lbsuc:0.000000
+4 entered dfs 2126725 times and time : 174.742876 ; upperb changed:13 times and did not 2 times
+[4]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[4]:22.017579
+This was asktest.c for 23 nodes
+TIME:93.582904
+This was asktest.c for 23 nodes
+3 says the best was 264 and ubsuc:8 lbsuc:0.000000
+3 entered dfs 2347098 times and time : 208.957935 ; upperb changed:5 times and did not 11 times
+[3]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[3]:25.298824
+This was asktest.c for 23 nodes
+TIME:93.582928
+TIME:93.559159

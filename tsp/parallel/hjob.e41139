@@ -1,0 +1,66 @@
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  24964
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32138
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32137
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32138
+
+This process may still be running and/or consuming resources.
+-----------------------------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  24963
+
+This process may still be running and/or consuming resources.
+-------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32137
+
+This process may still be running and/or consuming resources.
+---------------------------------------
+-----------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  24964
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  24963
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------

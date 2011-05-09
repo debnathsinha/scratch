@@ -1,0 +1,52 @@
+Number of processors 16
+Displaying the original queue of size : 32002
+
+Processor : 1
+
+Processor : 2
+
+Processor : 3
+
+Processor : 4
+
+Processor : 5
+
+Processor : 6
+
+Processor : 7
+
+Processor : 8
+
+Processor : 9
+
+Processor : 10
+
+Processor : 11
+
+Processor : 12
+
+Processor : 13
+
+Processor : 14
+
+Processor : 15
+
+Now processor 0 does its work
+The total time taken by processor 12 is 4.469745
+The total time taken by processor 14 is 4.464713
+The total time taken by processor 9 is 4.506442
+The total time taken by processor 1 is 4.907212
+The total time taken by processor 3 is 5.059597
+The total time taken by processor 13 is 5.233549
+The total time taken by processor 4 is 5.272512
+The total time taken by processor 15 is 5.286225
+The total time taken by processor 6 is 5.496612
+The total time taken by processor 10 is 5.585654
+The total time taken by processor 11 is 5.689503
+The total time taken by processor 7 is 6.091908
+The total time taken by processor 5 is 6.240277
+The total time taken by processor 2 is 6.265754
+
+The total time taken by processor 8 is 6.411442
+ Sum : 10.006821
+The total time taken by processor 0 is 6.410767

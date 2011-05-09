@@ -1,0 +1,1003 @@
+There are 9 processors
+iter : 0
+ |! Time taken in (receiving) 3 procs is 0.015115 !!?? 
+iter : 1
+ |! Time taken in (receiving) 3 procs is 0.000268 !!?? 
+iter : 2
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 3
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 4
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 5
+ |! Time taken in (receiving) 3 procs is 0.000265 !!?? 
+iter : 6
+ |! Time taken in (receiving) 3 procs is 0.000259 !!?? 
+iter : 7
+ |! Time taken in (receiving) 3 procs is 0.000311 !!?? 
+iter : 8
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 9
+ |! Time taken in (receiving) 3 procs is 0.000321 !!?? 
+iter : 10
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 11
+ |! Time taken in (receiving) 3 procs is 0.000261 !!?? 
+iter : 12
+ |! Time taken in (receiving) 3 procs is 0.000237 !!?? 
+iter : 13
+ |! Time taken in (receiving) 3 procs is 0.000240 !!?? 
+iter : 14
+ |! Time taken in (receiving) 3 procs is 0.000242 !!?? 
+iter : 15
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 16
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 17
+ |! Time taken in (receiving) 3 procs is 0.000257 !!?? 
+iter : 18
+ |! Time taken in (receiving) 3 procs is 0.000246 !!?? 
+iter : 19
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 20
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 21
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 22
+ |! Time taken in (receiving) 3 procs is 0.000293 !!?? 
+iter : 23
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 24
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 25
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 26
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 27
+ |! Time taken in (receiving) 3 procs is 0.000268 !!?? 
+iter : 28
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 29
+ |! Time taken in (receiving) 3 procs is 0.000257 !!?? 
+iter : 30
+ |! Time taken in (receiving) 3 procs is 0.000243 !!?? 
+iter : 31
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 32
+ |! Time taken in (receiving) 3 procs is 0.000251 !!?? 
+iter : 33
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 34
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 35
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 36
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 37
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 38
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 39
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 40
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 41
+ |! Time taken in (receiving) 3 procs is 0.000258 !!?? 
+iter : 42
+ |! Time taken in (receiving) 3 procs is 0.000249 !!?? 
+iter : 43
+ |! Time taken in (receiving) 3 procs is 0.000249 !!?? 
+iter : 44
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 45
+ |! Time taken in (receiving) 3 procs is 0.000240 !!?? 
+iter : 46
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 47
+ |! Time taken in (receiving) 3 procs is 0.000261 !!?? 
+iter : 48
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 49
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 50
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 51
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 52
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 53
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 54
+ |! Time taken in (receiving) 3 procs is 0.000263 !!?? 
+iter : 55
+ |! Time taken in (receiving) 3 procs is 0.000258 !!?? 
+iter : 56
+ |! Time taken in (receiving) 3 procs is 0.000282 !!?? 
+iter : 57
+ |! Time taken in (receiving) 3 procs is 0.000269 !!?? 
+iter : 58
+ |! Time taken in (receiving) 3 procs is 0.000260 !!?? 
+iter : 59
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 60
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 61
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 62
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 63
+ |! Time taken in (receiving) 3 procs is 0.000266 !!?? 
+iter : 64
+ |! Time taken in (receiving) 3 procs is 0.000258 !!?? 
+iter : 65
+ |! Time taken in (receiving) 3 procs is 0.000240 !!?? 
+iter : 66
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 67
+ |! Time taken in (receiving) 3 procs is 0.000245 !!?? 
+iter : 68
+ |! Time taken in (receiving) 3 procs is 0.000267 !!?? 
+iter : 69
+ |! Time taken in (receiving) 3 procs is 0.000265 !!?? 
+iter : 70
+ |! Time taken in (receiving) 3 procs is 0.000238 !!?? 
+iter : 71
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 72
+ |! Time taken in (receiving) 3 procs is 0.000257 !!?? 
+iter : 73
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 74
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 75
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 76
+ |! Time taken in (receiving) 3 procs is 0.000261 !!?? 
+iter : 77
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 78
+ |! Time taken in (receiving) 3 procs is 0.000282 !!?? 
+iter : 79
+ |! Time taken in (receiving) 3 procs is 0.000267 !!?? 
+iter : 80
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 81
+ |! Time taken in (receiving) 3 procs is 0.000257 !!?? 
+iter : 82
+ |! Time taken in (receiving) 3 procs is 0.000251 !!?? 
+iter : 83
+ |! Time taken in (receiving) 3 procs is 0.000235 !!?? 
+iter : 84
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 85
+ |! Time taken in (receiving) 3 procs is 0.000263 !!?? 
+iter : 86
+ |! Time taken in (receiving) 3 procs is 0.000301 !!?? 
+iter : 87
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 88
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 89
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 90
+ |! Time taken in (receiving) 3 procs is 0.000314 !!?? 
+iter : 91
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 92
+ |! Time taken in (receiving) 3 procs is 0.000364 !!?? 
+iter : 93
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 94
+ |! Time taken in (receiving) 3 procs is 0.000310 !!?? 
+iter : 95
+ |! Time taken in (receiving) 3 procs is 0.000293 !!?? 
+iter : 96
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 97
+ |! Time taken in (receiving) 3 procs is 0.000270 !!?? 
+iter : 98
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 99
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 100
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 101
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 102
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 103
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 104
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 105
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 106
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 107
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 108
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 109
+ |! Time taken in (receiving) 3 procs is 0.000256 !!?? 
+iter : 110
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 111
+ |! Time taken in (receiving) 3 procs is 0.000237 !!?? 
+iter : 112
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 113
+ |! Time taken in (receiving) 3 procs is 0.000273 !!?? 
+iter : 114
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 115
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 116
+ |! Time taken in (receiving) 3 procs is 0.000307 !!?? 
+iter : 117
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 118
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 119
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 120
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 121
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 122
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 123
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 124
+ |! Time taken in (receiving) 3 procs is 0.000309 !!?? 
+iter : 125
+ |! Time taken in (receiving) 3 procs is 0.000303 !!?? 
+iter : 126
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 127
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 128
+ |! Time taken in (receiving) 3 procs is 0.000311 !!?? 
+iter : 129
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 130
+ |! Time taken in (receiving) 3 procs is 0.000291 !!?? 
+iter : 131
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 132
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 133
+ |! Time taken in (receiving) 3 procs is 0.000340 !!?? 
+iter : 134
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 135
+ |! Time taken in (receiving) 3 procs is 0.000291 !!?? 
+iter : 136
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 137
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 138
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 139
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 140
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 141
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 142
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 143
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 144
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 145
+ |! Time taken in (receiving) 3 procs is 0.000328 !!?? 
+iter : 146
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 147
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 148
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 149
+ |! Time taken in (receiving) 3 procs is 0.000310 !!?? 
+iter : 150
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 151
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 152
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 153
+ |! Time taken in (receiving) 3 procs is 0.000323 !!?? 
+iter : 154
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 155
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 156
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 157
+ |! Time taken in (receiving) 3 procs is 0.000317 !!?? 
+iter : 158
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 159
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 160
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 161
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 162
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 163
+ |! Time taken in (receiving) 3 procs is 0.000268 !!?? 
+iter : 164
+ |! Time taken in (receiving) 3 procs is 0.000267 !!?? 
+iter : 165
+ |! Time taken in (receiving) 3 procs is 0.000270 !!?? 
+iter : 166
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 167
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 168
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 169
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 170
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 171
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 172
+ |! Time taken in (receiving) 3 procs is 0.000301 !!?? 
+iter : 173
+ |! Time taken in (receiving) 3 procs is 0.000294 !!?? 
+iter : 174
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 175
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 176
+ |! Time taken in (receiving) 3 procs is 0.000266 !!?? 
+iter : 177
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 178
+ |! Time taken in (receiving) 3 procs is 0.000270 !!?? 
+iter : 179
+ |! Time taken in (receiving) 3 procs is 0.000301 !!?? 
+iter : 180
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 181
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 182
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 183
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 184
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 185
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 186
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 187
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 188
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 189
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 190
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 191
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 192
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 193
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 194
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 195
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 196
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 197
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 198
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 199
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 200
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 201
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 202
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 203
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 204
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 205
+ |! Time taken in (receiving) 3 procs is 0.000282 !!?? 
+iter : 206
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 207
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 208
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 209
+ |! Time taken in (receiving) 3 procs is 0.000314 !!?? 
+iter : 210
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 211
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 212
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 213
+ |! Time taken in (receiving) 3 procs is 0.000309 !!?? 
+iter : 214
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 215
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 216
+ |! Time taken in (receiving) 3 procs is 0.000269 !!?? 
+iter : 217
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 218
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 219
+ |! Time taken in (receiving) 3 procs is 0.000303 !!?? 
+iter : 220
+ |! Time taken in (receiving) 3 procs is 0.000307 !!?? 
+iter : 221
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 222
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 223
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 224
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 225
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 226
+ |! Time taken in (receiving) 3 procs is 0.000311 !!?? 
+iter : 227
+ |! Time taken in (receiving) 3 procs is 0.000268 !!?? 
+iter : 228
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 229
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 230
+ |! Time taken in (receiving) 3 procs is 0.000323 !!?? 
+iter : 231
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 232
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 233
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 234
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 235
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 236
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 237
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 238
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 239
+ |! Time taken in (receiving) 3 procs is 0.000264 !!?? 
+iter : 240
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 241
+ |! Time taken in (receiving) 3 procs is 0.000293 !!?? 
+iter : 242
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 243
+ |! Time taken in (receiving) 3 procs is 0.000306 !!?? 
+iter : 244
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 245
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 246
+ |! Time taken in (receiving) 3 procs is 0.000273 !!?? 
+iter : 247
+ |! Time taken in (receiving) 3 procs is 0.000309 !!?? 
+iter : 248
+ |! Time taken in (receiving) 3 procs is 0.000273 !!?? 
+iter : 249
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 250
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 251
+ |! Time taken in (receiving) 3 procs is 0.000260 !!?? 
+iter : 252
+ |! Time taken in (receiving) 3 procs is 0.000263 !!?? 
+iter : 253
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 254
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 255
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 256
+ |! Time taken in (receiving) 3 procs is 0.000262 !!?? 
+iter : 257
+ |! Time taken in (receiving) 3 procs is 0.000268 !!?? 
+iter : 258
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 259
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 260
+ |! Time taken in (receiving) 3 procs is 0.000307 !!?? 
+iter : 261
+ |! Time taken in (receiving) 3 procs is 0.000294 !!?? 
+iter : 262
+ |! Time taken in (receiving) 3 procs is 0.000268 !!?? 
+iter : 263
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 264
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 265
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 266
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 267
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 268
+ |! Time taken in (receiving) 3 procs is 0.000267 !!?? 
+iter : 269
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 270
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 271
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 272
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 273
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 274
+ |! Time taken in (receiving) 3 procs is 0.000269 !!?? 
+iter : 275
+ |! Time taken in (receiving) 3 procs is 0.000282 !!?? 
+iter : 276
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 277
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 278
+ |! Time taken in (receiving) 3 procs is 0.000273 !!?? 
+iter : 279
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 280
+ |! Time taken in (receiving) 3 procs is 0.000265 !!?? 
+iter : 281
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 282
+ |! Time taken in (receiving) 3 procs is 0.000293 !!?? 
+iter : 283
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 284
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 285
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 286
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 287
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 288
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 289
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 290
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 291
+ |! Time taken in (receiving) 3 procs is 0.000267 !!?? 
+iter : 292
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 293
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 294
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 295
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 296
+ |! Time taken in (receiving) 3 procs is 0.000305 !!?? 
+iter : 297
+ |! Time taken in (receiving) 3 procs is 0.000294 !!?? 
+iter : 298
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 299
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 300
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 301
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 302
+ |! Time taken in (receiving) 3 procs is 0.000301 !!?? 
+iter : 303
+ |! Time taken in (receiving) 3 procs is 0.000263 !!?? 
+iter : 304
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 305
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 306
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 307
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 308
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 309
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 310
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 311
+ |! Time taken in (receiving) 3 procs is 0.000305 !!?? 
+iter : 312
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 313
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 314
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 315
+ |! Time taken in (receiving) 3 procs is 0.000309 !!?? 
+iter : 316
+ |! Time taken in (receiving) 3 procs is 0.000271 !!?? 
+iter : 317
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 318
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 319
+ |! Time taken in (receiving) 3 procs is 0.000319 !!?? 
+iter : 320
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 321
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 322
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 323
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 324
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 325
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 326
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 327
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 328
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 329
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 330
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 331
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 332
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 333
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 334
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 335
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 336
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 337
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 338
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 339
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 340
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 341
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 342
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 343
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 344
+ |! Time taken in (receiving) 3 procs is 0.000291 !!?? 
+iter : 345
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 346
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 347
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 348
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 349
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 350
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 351
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 352
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 353
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 354
+ |! Time taken in (receiving) 3 procs is 0.000282 !!?? 
+iter : 355
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 356
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 357
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 358
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 359
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 360
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 361
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 362
+ |! Time taken in (receiving) 3 procs is 0.000243 !!?? 
+iter : 363
+ |! Time taken in (receiving) 3 procs is 0.000248 !!?? 
+iter : 364
+ |! Time taken in (receiving) 3 procs is 0.000237 !!?? 
+iter : 365
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 366
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 367
+ |! Time taken in (receiving) 3 procs is 0.000253 !!?? 
+iter : 368
+ |! Time taken in (receiving) 3 procs is 0.000239 !!?? 
+iter : 369
+ |! Time taken in (receiving) 3 procs is 0.000251 !!?? 
+iter : 370
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 371
+ |! Time taken in (receiving) 3 procs is 0.000250 !!?? 
+iter : 372
+ |! Time taken in (receiving) 3 procs is 0.000239 !!?? 
+iter : 373
+ |! Time taken in (receiving) 3 procs is 0.000252 !!?? 
+iter : 374
+ |! Time taken in (receiving) 3 procs is 0.000224 !!?? 
+iter : 375
+ |! Time taken in (receiving) 3 procs is 0.000245 !!?? 
+iter : 376
+ |! Time taken in (receiving) 3 procs is 0.000260 !!?? 
+iter : 377
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 378
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 379
+ |! Time taken in (receiving) 3 procs is 0.000273 !!?? 
+iter : 380
+ |! Time taken in (receiving) 3 procs is 0.000238 !!?? 
+iter : 381
+ |! Time taken in (receiving) 3 procs is 0.000247 !!?? 
+iter : 382
+ |! Time taken in (receiving) 3 procs is 0.000248 !!?? 
+iter : 383
+ |! Time taken in (receiving) 3 procs is 0.000262 !!?? 
+iter : 384
+ |! Time taken in (receiving) 3 procs is 0.000234 !!?? 
+iter : 385
+ |! Time taken in (receiving) 3 procs is 0.000248 !!?? 
+iter : 386
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 387
+ |! Time taken in (receiving) 3 procs is 0.000228 !!?? 
+iter : 388
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 389
+ |! Time taken in (receiving) 3 procs is 0.000254 !!?? 
+iter : 390
+ |! Time taken in (receiving) 3 procs is 0.000113 !!?? 
+iter : 391
+ |! Time taken in (receiving) 3 procs is 0.000265 !!?? 
+iter : 392
+ |! Time taken in (receiving) 3 procs is 0.000240 !!?? 
+iter : 393
+ |! Time taken in (receiving) 3 procs is 0.000245 !!?? 
+iter : 394
+ |! Time taken in (receiving) 3 procs is 0.000256 !!?? 
+iter : 395
+ |! Time taken in (receiving) 3 procs is 0.000257 !!?? 
+iter : 396
+ |! Time taken in (receiving) 3 procs is 0.000232 !!?? 
+iter : 397
+ |! Time taken in (receiving) 3 procs is 0.000243 !!?? 
+iter : 398
+ |! Time taken in (receiving) 3 procs is 0.000258 !!?? 
+iter : 399
+ |! Time taken in (receiving) 3 procs is 0.000257 !!?? 
+iter : 400
+ |! Time taken in (receiving) 3 procs is 0.000256 !!?? 
+iter : 401
+ |! Time taken in (receiving) 3 procs is 0.000253 !!?? 
+iter : 402
+ |! Time taken in (receiving) 3 procs is 0.000243 !!?? 
+iter : 403
+ |! Time taken in (receiving) 3 procs is 0.000244 !!?? 
+iter : 404
+ |! Time taken in (receiving) 3 procs is 0.000256 !!?? 
+iter : 405
+ |! Time taken in (receiving) 3 procs is 0.000266 !!?? 
+iter : 406
+ |! Time taken in (receiving) 3 procs is 0.000259 !!?? 
+iter : 407
+ |! Time taken in (receiving) 3 procs is 0.000270 !!?? 
+iter : 408
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 409
+ |! Time taken in (receiving) 3 procs is 0.000238 !!?? 
+iter : 410
+ |! Time taken in (receiving) 3 procs is 0.000251 !!?? 
+iter : 411
+ |! Time taken in (receiving) 3 procs is 0.000265 !!?? 
+iter : 412
+ |! Time taken in (receiving) 3 procs is 0.000261 !!?? 
+iter : 413
+ |! Time taken in (receiving) 3 procs is 0.000263 !!?? 
+iter : 414
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 415
+ |! Time taken in (receiving) 3 procs is 0.000255 !!?? 
+iter : 416
+ |! Time taken in (receiving) 3 procs is 0.000253 !!?? 
+iter : 417
+ |! Time taken in (receiving) 3 procs is 0.000252 !!?? 
+iter : 418
+ |! Time taken in (receiving) 3 procs is 0.000266 !!?? 
+iter : 419
+ |! Time taken in (receiving) 3 procs is 0.000239 !!?? 
+iter : 420
+ |! Time taken in (receiving) 3 procs is 0.000241 !!?? 
+iter : 421
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 422
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 423
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 424
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 425
+ |! Time taken in (receiving) 3 procs is 0.000265 !!?? 
+iter : 426
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 427
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 428
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 429
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 430
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 431
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 432
+ |! Time taken in (receiving) 3 procs is 0.000294 !!?? 
+iter : 433
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 434
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 435
+ |! Time taken in (receiving) 3 procs is 0.000303 !!?? 
+iter : 436
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 437
+ |! Time taken in (receiving) 3 procs is 0.000290 !!?? 
+iter : 438
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 439
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 440
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 441
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 442
+ |! Time taken in (receiving) 3 procs is 0.000277 !!?? 
+iter : 443
+ |! Time taken in (receiving) 3 procs is 0.000274 !!?? 
+iter : 444
+ |! Time taken in (receiving) 3 procs is 0.000278 !!?? 
+iter : 445
+ |! Time taken in (receiving) 3 procs is 0.000298 !!?? 
+iter : 446
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 447
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 448
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 449
+ |! Time taken in (receiving) 3 procs is 0.000293 !!?? 
+iter : 450
+ |! Time taken in (receiving) 3 procs is 0.000296 !!?? 
+iter : 451
+ |! Time taken in (receiving) 3 procs is 0.000318 !!?? 
+iter : 452
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 453
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 454
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 455
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 456
+ |! Time taken in (receiving) 3 procs is 0.000291 !!?? 
+iter : 457
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 458
+ |! Time taken in (receiving) 3 procs is 0.000305 !!?? 
+iter : 459
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 460
+ |! Time taken in (receiving) 3 procs is 0.000270 !!?? 
+iter : 461
+ |! Time taken in (receiving) 3 procs is 0.000272 !!?? 
+iter : 462
+ |! Time taken in (receiving) 3 procs is 0.000299 !!?? 
+iter : 463
+ |! Time taken in (receiving) 3 procs is 0.000293 !!?? 
+iter : 464
+ |! Time taken in (receiving) 3 procs is 0.000318 !!?? 
+iter : 465
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 466
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 467
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 468
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 469
+ |! Time taken in (receiving) 3 procs is 0.000310 !!?? 
+iter : 470
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 471
+ |! Time taken in (receiving) 3 procs is 0.000279 !!?? 
+iter : 472
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 473
+ |! Time taken in (receiving) 3 procs is 0.000275 !!?? 
+iter : 474
+ |! Time taken in (receiving) 3 procs is 0.000294 !!?? 
+iter : 475
+ |! Time taken in (receiving) 3 procs is 0.000302 !!?? 
+iter : 476
+ |! Time taken in (receiving) 3 procs is 0.000300 !!?? 
+iter : 477
+ |! Time taken in (receiving) 3 procs is 0.000286 !!?? 
+iter : 478
+ |! Time taken in (receiving) 3 procs is 0.000281 !!?? 
+iter : 479
+ |! Time taken in (receiving) 3 procs is 0.000297 !!?? 
+iter : 480
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 481
+ |! Time taken in (receiving) 3 procs is 0.000295 !!?? 
+iter : 482
+ |! Time taken in (receiving) 3 procs is 0.000306 !!?? 
+iter : 483
+ |! Time taken in (receiving) 3 procs is 0.000280 !!?? 
+iter : 484
+ |! Time taken in (receiving) 3 procs is 0.000291 !!?? 
+iter : 485
+ |! Time taken in (receiving) 3 procs is 0.000321 !!?? 
+iter : 486
+ |! Time taken in (receiving) 3 procs is 0.000284 !!?? 
+iter : 487
+ |! Time taken in (receiving) 3 procs is 0.000283 !!?? 
+iter : 488
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 489
+ |! Time taken in (receiving) 3 procs is 0.000267 !!?? 
+iter : 490
+ |! Time taken in (receiving) 3 procs is 0.000266 !!?? 
+iter : 491
+ |! Time taken in (receiving) 3 procs is 0.000292 !!?? 
+iter : 492
+ |! Time taken in (receiving) 3 procs is 0.000289 !!?? 
+iter : 493
+ |! Time taken in (receiving) 3 procs is 0.000288 !!?? 
+iter : 494
+ |! Time taken in (receiving) 3 procs is 0.000276 !!?? 
+iter : 495
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+iter : 496
+ |! Time taken in (receiving) 3 procs is 0.000285 !!?? 
+iter : 497
+ |! Time taken in (receiving) 3 procs is 0.000316 !!?? 
+iter : 498
+ |! Time taken in (receiving) 3 procs is 0.000308 !!?? 
+iter : 499
+ |! Time taken in (receiving) 3 procs is 0.000287 !!?? 
+
+Time taken is 4.020331

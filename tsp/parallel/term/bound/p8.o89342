@@ -1,0 +1,91 @@
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+
+
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	96:0	
+40:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	11:0	100:0	
+79:0	64:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	78:0	53:0	77:0	
+80:0	72:0	52:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	
+92:0	15:0	84:0	90:0	90:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	86:0	27:0	
+20:0	61:0	62:0	29:0	35:0	54:0	38:0	77:0	52:0	67:0	54:0	4:0	44:0	94:0	94:0	
+34:0	2:0	30:0	36:0	7:0	38:0	73:0	29:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+77:0	25:0	64:0	81:0	3:0	77:0	29:0	83:0	34:0	23:0	90:0	36:0	69:0	96:0	59:0	
+28:0	14:0	53:0	92:0	46:0	52:0	74:0	34:0	66:0	86:0	44:0	93:0	40:0	82:0	69:0	
+56:0	81:0	50:0	7:0	7:0	67:0	64:0	23:0	86:0	92:0	49:0	22:0	96:0	93:0	15:0	
+48:0	16:0	98:0	95:0	24:0	54:0	36:0	90:0	44:0	49:0	89:0	65:0	44:0	62:0	29:0	
+63:0	41:0	30:0	53:0	98:0	4:0	69:0	36:0	93:0	22:0	65:0	79:0	31:0	45:0	23:0	
+37:0	13:0	78:0	9:0	91:0	44:0	17:0	69:0	40:0	96:0	44:0	31:0	19:0	28:0	56:0	
+52:0	11:0	53:0	20:0	86:0	94:0	45:0	96:0	82:0	93:0	62:0	45:0	28:0	42:0	17:0	
+96:0	100:0	77:0	67:0	27:0	94:0	89:0	59:0	69:0	15:0	29:0	23:0	56:0	17:0	91:0	
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+There should now be 23 elements in the queue and nsend:0
+The time taken for the bfs was 0.030082 and 0 nodes were successful
+Processor 4 is now out of work and its best is 293!!!
+Processor 6 is now out of work and its best is 302!!!
+Processor 3 is now out of work and its best is 275!!!
+Processor 1 is now out of work and its best is 264!!!
+Processor 2 is now out of work and its best is 265!!!
+Processor 5 is now out of work and its best is 277!!!
+Processor 7 is now out of work and its best is 264!!!
+PROC 0 now out of work and its best is 289
+3 says the best was 275 and ubsuc:9 lbsuc:0.000000
+4 says the best was 293 and ubsuc:0 lbsuc:0.000000
+7 says the best was 264 and ubsuc:3 lbsuc:0.000000
+7 entered dfs 4130754 times and time : 339.013944 ; upperb changed:8 times and did not 4 times
+Time taken by processor 0 is 97.679397
+2 says the best was 265 and ubsuc:1 lbsuc:0.000000
+2 entered dfs 3069782 times and time : 244.247443 ; upperb changed:10 times and did not 3 times
+[2]:NUMBER OF LEAVES 0.000000
+5 says the best was 277 and ubsuc:0 lbsuc:0.000000
+5 entered dfs 2923608 times and time : 250.053577 ; upperb changed:11 times and did not 3 times
+[7]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[7]:41.198071
+This was asktest.c for 17 nodes
+TIME:97.692497
+1 says the best was 264 and ubsuc:1 lbsuc:0.000000
+1 entered dfs 2944772 times and time : 241.451424 ; upperb changed:10 times and did not 3 times
+TOTAL TIME INSIDE DFS[2]:29.956905
+This was asktest.c for 17 nodes
+TIME:97.711200
+[5]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[5]:31.954687
+This was asktest.c for 17 nodes
+TIME:97.681717
+6 says the best was 302 and ubsuc:7 lbsuc:0.000000
+[1]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[1]:29.650841
+3 entered dfs 3236246 times and time : 226.892308 ; upperb changed:6 times and did not 3 times
+4 entered dfs 2529903 times and time : 219.076900 ; upperb changed:11 times and did not 3 times
+6 entered dfs 2886183 times and time : 224.007620 ; upperb changed:7 times and did not 5 times
+This was asktest.c for 17 nodes
+[3]:NUMBER OF LEAVES 0.000000
+[4]:NUMBER OF LEAVES 0.000000
+[6]:NUMBER OF LEAVES 0.000000
+TIME:97.711329
+TOTAL TIME INSIDE DFS[3]:28.852686
+TOTAL TIME INSIDE DFS[4]:27.621785
+TOTAL TIME INSIDE DFS[6]:27.837373
+
+This was asktest.c for 17 nodes
+This was asktest.c for 17 nodes
+This was asktest.c for 17 nodes
+0 says the best was 264 and ubsuc:11 lbsuc:4
+TIME:97.711338
+TIME:97.711199
+TIME:97.711233
+0 eneter dfs 9527611 times and time was 777.526490 and upperbound changed 0 times and did not 0 times
+[0]:NUMBER OF LEAVES -1073747904
+TOTAL TIME INSIDE DFS[0]:52.430501
+This was asktest.c for 17 nodes
+TIME:97.680220

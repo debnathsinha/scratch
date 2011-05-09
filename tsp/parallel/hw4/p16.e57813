@@ -1,0 +1,20 @@
+[nyx008:01196] [0,0,8] ORTE_ERROR_LOG: Error in file orte_init_stage1.c at line 302
+--------------------------------------------------------------------------
+It looks like orte_init failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during orte_init; some of which are due to configuration or
+environment problems.  This failure appears to be an internal failure;
+here's some additional information (which may only be relevant to an
+Open MPI developer):
+
+  orte_session_dir failed
+  --> Returned value -1 instead of ORTE_SUCCESS
+
+--------------------------------------------------------------------------
+[nyx008:01196] [0,0,8] ORTE_ERROR_LOG: Error in file orte_system_init.c at line 41
+[nyx008:01196] [0,0,8] ORTE_ERROR_LOG: Error in file orte_init.c at line 49
+Open RTE was unable to initialize properly.  The error occured while
+attempting to orte_init().  Returned value -1 instead of ORTE_SUCCESS.
+
+=>> PBS: job killed: walltime 3640 exceeded limit 3600
+mpirun: killing job...

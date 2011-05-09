@@ -1,0 +1,100 @@
+[nyx077:31515] *** An error occurred in MPI_Send
+[nyx077:31515] *** on communicator MPI_COMM_WORLD
+[nyx077:31515] *** MPI_ERR_RANK: invalid rank
+[nyx077:31515] *** MPI_ERRORS_ARE_FATAL (goodbye)
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  31516
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  31515
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx064
+PID:  18938
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx064
+PID:  18937
+
+This process may still be running and/or consuming resources.
+-----------------------------------------------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  31516
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx064
+PID:  18938
+
+This process may still be running and/or consuming resources.
+--------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  31515
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx064
+PID:  18937
+
+This process may still be running and/or consuming resources.
+--------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  31516
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx064
+PID:  18938
+
+This process may still be running and/or consum-----------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  31515
+
+This process may still be running and/or consuming resources.
+---ing resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx064
+PID:  18937
+
+This process may still be run-----------------------------------------------------------------------
+ning and/or consuming resources.
+--------------------------------------------------------------------------

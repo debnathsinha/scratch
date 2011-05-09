@@ -1,0 +1,296 @@
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	96:0	
+40:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	11:0	100:0	
+79:0	64:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	78:0	53:0	77:0	
+80:0	72:0	52:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	
+92:0	15:0	84:0	90:0	90:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	86:0	27:0	
+20:0	61:0	62:0	29:0	35:0	54:0	38:0	77:0	52:0	67:0	54:0	4:0	44:0	94:0	94:0	
+34:0	2:0	30:0	36:0	7:0	38:0	73:0	29:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+77:0	25:0	64:0	81:0	3:0	77:0	29:0	83:0	34:0	23:0	90:0	36:0	69:0	96:0	59:0	
+28:0	14:0	53:0	92:0	46:0	52:0	74:0	34:0	66:0	86:0	44:0	93:0	40:0	82:0	69:0	
+56:0	81:0	50:0	7:0	7:0	67:0	64:0	23:0	86:0	92:0	49:0	22:0	96:0	93:0	15:0	
+48:0	16:0	98:0	95:0	24:0	54:0	36:0	90:0	44:0	49:0	89:0	65:0	44:0	62:0	29:0	
+63:0	41:0	30:0	53:0	98:0	4:0	69:0	36:0	93:0	22:0	65:0	79:0	31:0	45:0	23:0	
+37:0	13:0	78:0	9:0	91:0	44:0	17:0	69:0	40:0	96:0	44:0	31:0	19:0	28:0	56:0	
+52:0	11:0	53:0	20:0	86:0	94:0	45:0	96:0	82:0	93:0	62:0	45:0	28:0	42:0	17:0	
+96:0	100:0	77:0	67:0	27:0	94:0	89:0	59:0	69:0	15:0	29:0	23:0	56:0	17:0	91:0	
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+THERE ARE 170 ELEMENTS IN QUEUE and k1/numprocs:10
+
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+There should now be 11 elements in the queue and nsend:0
+The time taken for the bfs was 0.023888 and 0 nodes were successful
+I proc 13 have 10 elements in queue[[13]] best:10000 mycost:100140 size:9 orig size:11
+[[13]] best:10000 mycost:100170 size:8 orig size:11
+I proc 8 have 11 elements in queue[[8]] best:10000 mycost:100121 size:10 orig size:12
+I proc 2 have 11 elements in queue[[2]] best:10000 mycost:100112 size:10 orig size:12
+I proc 14 have 10 elements in queue[[14]] best:367 mycost:367 size:9 orig size:11
+[[8]] best:367 mycost:367 size:9 orig size:12
+I proc 4 have 11 elements in queue[[4]] best:360 mycost:360 size:10 orig size:12
+I proc 1 have 11 elements in queue[[1]] best:358 mycost:358 size:10 orig size:12
+[[8]] best:367 mycost:100107 size:8 orig size:12
+[[13]] best:349 mycost:349 size:7 orig size:11
+[[2]] best:319 mycost:319 size:9 orig size:12
+[[4]] best:330 mycost:330 size:9 orig size:12
+I proc 15 have 10 elements in queue[[15]] best:350 mycost:350 size:9 orig size:11
+[[4]] best:330 mycost:100133 size:8 orig size:12
+I proc 7 have 11 elements in queue[[7]] best:305 mycost:305 size:10 orig size:12
+I proc 10 have 10 elements in queue[[10]] best:372 mycost:372 size:9 orig size:11
+I proc 9 have 11 elements in queue[[9]] best:306 mycost:306 size:10 orig size:12
+[[4]] best:330 mycost:100119 size:7 orig size:12
+[[14]] best:358 mycost:358 size:8 orig size:11
+[[1]] best:347 mycost:347 size:9 orig size:12
+[[1]] best:347 mycost:100172 size:8 orig size:12
+[[1]] best:347 mycost:100190 size:7 orig size:12
+I proc 6 have 11 elements in queue[[6]] best:331 mycost:331 size:10 orig size:12
+[[9]] best:306 mycost:100132 size:9 orig size:12
+[[9]] best:306 mycost:100176 size:8 orig size:12
+[[6]] best:331 mycost:100177 size:9 orig size:12
+[[14]] best:358 mycost:100138 size:7 orig size:11
+[[7]] best:305 mycost:331 size:9 orig size:12
+[[7]] best:305 mycost:100147 size:8 orig size:12
+I proc 12 have 10 elements in queue[[12]] best:302 mycost:302 size:9 orig size:11
+[[12]] best:302 mycost:100132 size:8 orig size:11
+[[10]] best:367 mycost:367 size:8 orig size:11
+[[10]] best:367 mycost:100182 size:7 orig size:11
+[[15]] best:350 mycost:100116 size:8 orig size:11
+I proc 5 have 11 elements in queue[[5]] best:316 mycost:316 size:10 orig size:12
+[[2]] best:319 mycost:336 size:8 orig size:12
+[[2]] best:319 mycost:100183 size:7 orig size:12
+[[12]] best:302 mycost:100099 size:7 orig size:11
+I proc 11 have 10 elements in queue[[11]] best:322 mycost:322 size:9 orig size:11
+[[11]] best:322 mycost:100152 size:8 orig size:11
+[[5]] best:316 mycost:100129 size:9 orig size:12
+[[11]] best:322 mycost:100127 size:7 orig size:11
+[[6]] best:331 mycost:350 size:8 orig size:12
+[[12]] best:302 mycost:100087 size:6 orig size:11
+[[13]] best:306 mycost:306 size:6 orig size:11
+[[1]] best:347 mycost:364 size:6 orig size:12
+[[5]] best:316 mycost:100089 size:8 orig size:12
+[[1]] best:347 mycost:100158 size:5 orig size:12
+I proc 3 have 11 elements in queue[[3]] best:336 mycost:336 size:10 orig size:12
+[[15]] best:350 mycost:362 size:7 orig size:11
+[[13]] best:306 mycost:321 size:5 orig size:11
+[[4]] best:326 mycost:326 size:6 orig size:12
+[[3]] best:336 mycost:349 size:9 orig size:12
+[[3]] best:336 mycost:100175 size:8 orig size:12
+[[3]] best:336 mycost:100178 size:7 orig size:12
+[[12]] best:294 mycost:294 size:5 orig size:11
+[[9]] best:306 mycost:310 size:7 orig size:12
+[[4]] best:326 mycost:405 size:5 orig size:12
+[[9]] best:306 mycost:100098 size:6 orig size:12
+[[9]] best:306 mycost:100146 size:5 orig size:12
+[[9]] best:306 mycost:100137 size:4 orig size:12
+[[10]] best:337 mycost:337 size:6 orig size:11
+[[5]] best:316 mycost:341 size:7 orig size:12
+[[13]] best:285 mycost:285 size:4 orig size:11
+[[13]] best:285 mycost:100123 size:3 orig size:11
+[[2]] best:293 mycost:293 size:6 orig size:12
+[[13]] best:285 mycost:296 size:2 orig size:11
+[[13]] best:285 mycost:100094 size:1 orig size:11
+[[4]] best:275 mycost:275 size:4 orig size:12
+[[4]] best:275 mycost:100149 size:3 orig size:12
+[[2]] best:293 mycost:100080 size:5 orig size:12
+[[4]] best:275 mycost:100093 size:2 orig size:12
+[[14]] best:264 mycost:264 size:6 orig size:11
+[[14]] best:264 mycost:100123 size:5 orig size:11
+[[14]] best:264 mycost:100120 size:4 orig size:11
+[[14]] best:264 mycost:100120 size:3 orig size:11
+[[1]] best:333 mycost:333 size:4 orig size:12
+[[14]] best:264 mycost:100097 size:2 orig size:11
+[[9]] best:283 mycost:283 size:3 orig size:12
+[[14]] best:264 mycost:100108 size:1 orig size:11
+[[14]] best:264 mycost:100105 size:0 orig size:11
+Processor 14 is now out of work and its best is 264!!!
+[[14]]: Sending answer 264
+14 says the best was 264 and ubsuc:18 lbsuc:0.000000
+14 entered dfs 2743133 times and time : 111.546290 ; upperb changed:0 times and did not 0 times
+[14]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[14]:13.229515
+TIME:13.288108
+
+
+This is dotrib2.c
+
+[[4]] best:275 mycost:100081 size:1 orig size:12
+[[4]] best:275 mycost:100134 size:0 orig size:12
+Processor 4 is now out of work and its best is 275!!!
+[[4]]: Sending answer 275
+4 says the best was 275 and ubsuc:13 lbsuc:0.000000
+4 entered dfs 2775220 times and time : 107.823838 ; upperb changed:0 times and did not 0 times
+[4]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[4]:13.269016
+TIME:13.321832
+
+
+This is dotrib2.c
+
+[[9]] best:283 mycost:100099 size:2 orig size:12
+[[6]] best:314 mycost:314 size:7 orig size:12
+[[9]] best:283 mycost:298 size:1 orig size:12
+[[13]] best:285 mycost:299 size:0 orig size:11
+Processor 13 is now out of work and its best is 285!!!
+[[13]]: Sending answer 285
+13 says the best was 285 and ubsuc:9 lbsuc:0.000000
+13 entered dfs 2790387 times and time : 112.974539 ; upperb changed:0 times and did not 0 times
+[13]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[13]:13.952833
+TIME:14.008444
+
+
+This is dotrib2.c
+
+[[10]] best:307 mycost:307 size:5 orig size:11
+[[10]] best:307 mycost:100173 size:4 orig size:11
+[[3]] best:304 mycost:304 size:6 orig size:12
+[[3]] best:304 mycost:100154 size:5 orig size:12
+[[10]] best:307 mycost:100106 size:3 orig size:11
+[[7]] best:304 mycost:304 size:7 orig size:12
+[[3]] best:304 mycost:100114 size:4 orig size:12
+[[1]] best:333 mycost:335 size:3 orig size:12
+[[3]] best:304 mycost:100152 size:3 orig size:12
+[[11]] best:322 mycost:324 size:6 orig size:11
+[[2]] best:264 mycost:264 size:4 orig size:12
+[[12]] best:265 mycost:265 size:4 orig size:11
+[[2]] best:264 mycost:100078 size:3 orig size:12
+[[3]] best:304 mycost:100104 size:2 orig size:12
+[[3]] best:304 mycost:100128 size:1 orig size:12
+[[3]] best:304 mycost:100148 size:0 orig size:12
+Processor 3 is now out of work and its best is 304!!!
+[[3]]: Sending answer 304
+3 says the best was 304 and ubsuc:9 lbsuc:0.000000
+3 entered dfs 3103877 times and time : 125.088912 ; upperb changed:0 times and did not 0 times
+[3]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[3]:15.192242
+TIME:15.245071
+
+
+This is dotrib2.c
+
+[[9]] best:283 mycost:289 size:0 orig size:12
+Processor 9 is now out of work and its best is 283!!!
+[[9]]: Sending answer 283
+9 says the best was 283 and ubsuc:11 lbsuc:0.000000
+9 entered dfs 3124621 times and time : 123.961349 ; upperb changed:0 times and did not 0 times
+[9]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[9]:15.259973
+TIME:15.316300
+
+
+This is dotrib2.c
+
+[[12]] best:265 mycost:100063 size:3 orig size:11
+[[12]] best:265 mycost:100138 size:2 orig size:11
+[[12]] best:265 mycost:100128 size:1 orig size:11
+[[12]] best:265 mycost:100093 size:0 orig size:11
+Processor 12 is now out of work and its best is 265!!!
+[[12]]: Sending answer 265
+12 says the best was 265 and ubsuc:12 lbsuc:0.000000
+12 entered dfs 3199282 times and time : 125.757750 ; upperb changed:0 times and did not 0 times
+[12]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[12]:15.369039
+TIME:15.425771
+
+
+This is dotrib2.c
+
+[[10]] best:307 mycost:314 size:2 orig size:11
+[[10]] best:307 mycost:100156 size:1 orig size:11
+[[2]] best:264 mycost:280 size:2 orig size:12
+[[5]] best:294 mycost:294 size:6 orig size:12
+[[11]] best:322 mycost:100103 size:5 orig size:11
+[[15]] best:310 mycost:310 size:6 orig size:11
+[[5]] best:294 mycost:100111 size:5 orig size:12
+[[6]] best:314 mycost:322 size:6 orig size:12
+[[11]] best:322 mycost:100136 size:4 orig size:11
+[[5]] best:294 mycost:100121 size:4 orig size:12
+I proc 0 have 11 nodes in my queue: 00 received its new upperbound 304 from 3 and its prev upperbound was 345
+0 received its new upperbound 275 from 4 and its prev upperbound was 304
+0 received its new upperbound 283 from 9 and its prev upperbound was 275
+0 received its new upperbound 265 from 12 and its prev upperbound was 275
+0 received its new upperbound 285 from 13 and its prev upperbound was 265
+0 received its new upperbound 264 from 14 and its prev upperbound was 265
+[[8]] best:313 mycost:313 size:7 orig size:12
+[[15]] best:310 mycost:100102 size:5 orig size:11
+[[7]] best:300 mycost:300 size:6 orig size:12
+[[7]] best:300 mycost:100167 size:5 orig size:12
+[[8]] best:313 mycost:100108 size:6 orig size:12
+[[2]] best:264 mycost:284 size:1 orig size:12
+[[2]] best:264 mycost:100097 size:0 orig size:12
+Processor 2 is now out of work and its best is 264!!!
+[[2]]: Sending answer 264
+0 received its new upperbound 264 from 2 and its prev upperbound was 264
+2 says the best was 264 and ubsuc:20 lbsuc:0.000000
+2 entered dfs 3444193 times and time : 138.681607 ; upperb changed:0 times and did not 0 times
+[2]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[2]:17.181668
+TIME:17.232864
+
+
+This is dotrib2.c
+
+[[6]] best:314 mycost:100100 size:5 orig size:12
+[[8]] best:313 mycost:100113 size:5 orig size:12
+[[7]] best:300 mycost:318 size:4 orig size:12
+[[7]] best:300 mycost:100146 size:3 orig size:12
+[[5]] best:294 mycost:340 size:3 orig size:12
+[[5]] best:294 mycost:100116 size:2 orig size:12
+[[10]] best:307 mycost:327 size:0 orig size:11
+Processor 10 is now out of work and its best is 307!!!
+0 received its new upperbound 307 from 10 and its prev upperbound was 264
+[[10]]: Sending answer 307
+10 says the best was 307 and ubsuc:8 lbsuc:0.000000
+10 entered dfs 3728035 times and time : 165.509128 ; upperb changed:0 times and did not 0 times
+[10]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[10]:20.209394
+TIME:20.265541
+
+
+This is dotrib2.c
+
+[[7]] best:300 mycost:377 size:2 orig size:12
+PROC 0 now out of work and its best is 311
+Time taken by processor 0 is 22.123085
+[[5]] best:294 mycost:296 size:1 orig size:12
+[[5]] best:294 mycost:100145 size:0 orig size:12
+Processor 5 is now out of work and its best is 294!!!
+[[5]]: Sending answer 294
+5 says the best was 294 and ubsuc:10 lbsuc:0.000000
+5 entered dfs 4147421 times and time : 188.933840 ; upperb changed:0 times and did not 0 times
+[5]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[5]:23.494856
+I proc 0 received 294 from 5
+TIME:23.547019
+
+
+This is dotrib2.c
+
+3 additional processes aborted (not shown)

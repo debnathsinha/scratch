@@ -1,0 +1,19 @@
+Number of processors 16
+Processor 12 is out of work in time 3.255251
+Processor 3 is out of work in time 3.917585
+The total time taken by processor 3 is 3.917867
+Processor 2 is out of work in time 4.200562
+Processor 5 is out of work in time 4.730474
+Processor 11 is out of work in time 4.775225
+Processor 13 is out of work in time 5.283117
+Processor 8 is out of work in time 5.649346
+Processor 9 is out of work in time 6.291236
+Processor 15 is out of work in time 6.555017
+Processor 10 is out of work in time 6.754180
+Processor 14 is out of work in time 6.996027
+Processor 6 is out of work in time 7.077367
+Processor 7 is out of work in time 7.613630
+Processor 4 is out of work in time 8.055411
+
+ Sum : 10.007009
+The total time taken by processor 0 is 12.080109

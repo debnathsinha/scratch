@@ -1,0 +1,12 @@
+Hi in even processor 0 
+0 is my ( 0 ) bufferI sent 0 to 0 
+Hi in odd processor 1
+Hi in odd processor 3
+I (3) received in 4 
+I ( 3  )sent the message in 4
+Hi in even processor 2 
+4 is my ( 2 ) bufferI sent 4 to 2 
+I ( 2 ) received 4
+I (1) received in 0 
+I ( 1  )sent the message in 0
+I ( 0 ) received 0

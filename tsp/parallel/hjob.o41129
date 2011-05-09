@@ -1,0 +1,41 @@
+Hi in processor 2 
+Hi in processor 4 
+Hi in processor 6 
+Hi in processor 3
+Hi in processor 5
+Hi in processor 16 
+Hi in processor 8 
+Hi in processor 13
+Hi in processor 15
+Hi in processor 9
+Hi in processor 1
+Hi in processor 14 
+Hi in processor 17
+Hi in processor 18 
+Hi in processor 0 
+Hi in processor 12 
+Hi in processor 19
+Hi in processor 7
+Hi in processor 10 
+Hi in processor 11
+sent the message in 0
+sent the message in 2
+sent the message in 4
+sent the message in 16
+sent the message in 8
+sent the message in 12
+sent the message in 6
+sent the message in 18
+sent the message in 14
+sent the message in 10
+0 received in 0 
+20 received in 10 
+4 received in 2 
+8 received in 4 
+32 received in 16 
+16 received in 8 
+24 received in 12 
+28 received in 14 
+12 received in 6 
+36 received in 18 
+11 additional processes aborted (not shown)

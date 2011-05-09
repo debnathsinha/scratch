@@ -1,0 +1,28 @@
+Number of processors 8
+Displaying the original queue of size : 12001
+
+Processor : 1
+
+Processor : 2
+
+Processor : 3
+
+Processor : 4
+
+Processor : 5
+
+Processor : 6
+
+Processor : 7
+
+Now processor 0 does its work
+The total time taken by processor 1 is 139.911124
+The total time taken by processor 3 is 142.628160
+The total time taken by processor 4 is 143.808572
+The total time taken by processor 6 is 144.494629
+The total time taken by processor 7 is 146.712654
+The total time taken by processor 2 is 149.687598
+
+ Sum : 10.007008
+The total time taken by processor 0 is 155.512787
+The total time taken by processor 5 is 155.513803

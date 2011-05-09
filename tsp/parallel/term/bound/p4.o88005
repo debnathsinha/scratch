@@ -1,0 +1,504 @@
+
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	
+40:0	52:0	96:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	
+79:0	96:0	41:0	13:0	11:0	100:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	
+80:0	92:0	13:0	50:0	98:0	30:0	78:0	53:0	77:0	41:0	90:0	29:0	36:0	
+92:0	64:0	11:0	98:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	90:0	
+20:0	72:0	100:0	30:0	92:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	
+34:0	15:0	22:0	78:0	7:0	7:0	86:0	27:0	54:0	38:0	77:0	52:0	67:0	
+77:0	61:0	52:0	53:0	95:0	3:0	27:0	54:0	4:0	44:0	94:0	94:0	73:0	
+28:0	2:0	84:0	77:0	53:0	46:0	54:0	4:0	29:0	74:0	64:0	36:0	69:0	
+56:0	25:0	62:0	41:0	9:0	7:0	38:0	44:0	74:0	17:0	45:0	89:0	83:0	
+48:0	14:0	30:0	90:0	20:0	24:0	77:0	94:0	64:0	45:0	34:0	23:0	90:0	
+63:0	81:0	64:0	29:0	67:0	98:0	52:0	94:0	36:0	89:0	23:0	36:0	69:0	
+37:0	16:0	53:0	36:0	90:0	91:0	67:0	73:0	69:0	83:0	90:0	69:0	96:0	
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+THERE ARE 204 ELEMENTS IN QUEUE and k1/numprocs:51
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+There should now be 51 elements in the queue and nsend:0
+The time taken for the bfs was 0.009664 and 0 nodes were successful
+I proc 1 have 51 elements in queue
+I proc 3 have 51 elements in queue
+I proc 2 have 51 elements in queue
+I proc 0 have 51 nodes in my queue: 0Processor 0 has started working
+Processor 2 is now out of work and its best is 231!!!
+I 2 am asking 3 for work
+Processor 3 is now out of work and its best is 212!!!
+I 3 am asking 0 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+[0]:3 asked for work
+(3)Received 10 6654 101 from 0
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+ [[2]]: I got back 0 26 
+Methinks I got work to do
+(2)Received 2 7162 78 from 0
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 6 7102 125 from 0
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 11 5118 71 from 0
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 3 6134 92 from 0
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+ [[2]]: I got back 0 26 
+Methinks I got work to do
+(2)Received 7 6014 157 from 0
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+ [[2]]: I got back 0 26 
+Methinks I got work to do
+(2)Received 12 2046 132 from 0
+The best is 212
+I 3 am asking 0 for work
+The best is 231
+I 2 am asking 3 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 7 7996 82 from 0
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+ [[2]]: I got back 0 26 
+Methinks I got work to do
+(2)Received 11 6076 107 from 0
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 4 8044 196 from 0
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+The best is 231
+I 2 am asking 3 for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 9 7548 145 from 0
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 2 7928 126 from 0
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+[0]:3 asked for work
+ [[2]]: I got back 0 26 
+Methinks I got work to do
+(2)Received 6 7868 96 from 0
+ [[3]]: I got back 0 26 
+Methinks I got work to do
+(3)Received 11 5884 78 from 0
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+ [[2]]: I got back 0 26 
+Methinks I got work to do
+(2)Received 8 7420 139 from 0
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+[1]:0 asked for work
+(2)Received 4 8046 172 from 1
+The best is 231
+I 2 am asking 3 for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 9 7550 121 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+
+
+PROC 0 now out of work and its best is 219
+I 0 am asking 1 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 5 7902 74 from 1
+The best is 219
+I 0 am asking 1 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 10 6910 92 from 1
+The best is 219
+I 0 am asking 1 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 2 7674 118 from 1
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 6 7614 94 from 1
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+The best is 219
+[1]:0 asked for work
+I 0 am asking 1 for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 11 5630 145 from 1
+The best is 212
+I 3 am asking 0 for work
+The best is 231
+I 2 am asking 3 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 3 7158 138 from 1
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+The best is 219
+[1]:0 asked for work
+I 0 am asking 1 for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 7 7038 142 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 12 3070 138 from 1
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 4 6126 130 from 1
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+The best is 219
+[1]:0 asked for work
+I 0 am asking 1 for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 8 5886 99 from 1
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 1 4092 53 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 5 4062 128 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 9 3582 120 from 1
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 4 8168 147 from 1
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+The best is 231
+I 2 am asking 3 for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 8 7928 220 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 12 4088 189 from 1
+[1]:0 asked for work
+The best is 231
+I 2 am asking 3 for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 6 8116 210 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 10 7156 222 from 1
+The best is 231
+I 2 am asking 3 for work
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 3 8164 202 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 8 7916 157 from 1
+The best is 231
+I 2 am asking 3 for work
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 12 4076 194 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 6 8092 119 from 1
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 10 7132 136 from 1
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+The best is 231
+I 2 am asking 3 for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 3 8116 133 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 8 7868 109 from 1
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 12 4028 122 from 1
+The best is 212
+I 3 am asking 0 for work
+[0]:3 asked for work
+I 0 am out of work too
+The best is 231
+I 2 am asking 3 for work
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 5 8028 104 from 1
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 10 7036 195 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+The best is 212
+I 3 am asking 0 for work
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 3 7924 119 from 1
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 3 to 1 with tag:25
+[1]:0 asked for work
+ [[3]]: I got back 1 26 
+Methinks I got work to do
+(3)Received 7 7804 46 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 12 3836 111 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 5 7644 72 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received 10 6652 110 from 1
+The best is 231
+I 2 am asking 3 for work
+[3]:2 asked for work
+I 3 am out of work too
+I 3 am fwding the mssg I got from 2 to 0 with tag:25
+[0]:3 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 2 to 1 with tag:25
+[1]:0 asked for work
+I 1 am out of work too
+I 1 am fwding the mssg I got from 2 to 2 with tag:25
+Terminating in 1 from inside dfs
+Sent 2 the termination signal
+ [[2]]: I got back 1 26 
+Methinks I got work to do
+(2)Received -1 6652 110 from 1
+Terminated
+2 sent termination signal to 3 and 1
+The best is 231
+This is 2 going to sleep
+Signal:11 info.si_errno:0(Success) si_code:1(SEGV_MAPERR)
+Failing at addr:0xffffffff
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      *** End of error message ***
+ 

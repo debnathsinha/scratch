@@ -1,0 +1,135 @@
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx037
+PID:  9947
+
+This process may still be running and/or consuming resources.
+------------------------------------------------------------------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  5591
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx037
+PID:  9947
+
+This process may still be running and/or consuming resources.
+-------------------------------------------------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx035
+PID:  12016
+
+This process may still be running and/or consuming resources.
+-----------------------------------------------------------------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx034
+PID:  875
+
+This process may still be running and/or consuming resources.
+-------------------------------------------------------------------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx033
+PID:  6301
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  5590
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+-----------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx035
+PID:  12015
+
+This process may still be running and/or consuming resources.
+------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx034
+PID:  875
+
+This process may still be running and/or consuming resources.
+-----------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx033
+PID:  6300
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+-----------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx035
+PID:  12016
+
+This process may still be running and/or consuming resources.
+----------------------------------------------------
+---------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx033
+PID:  6301
+
+This process may still be running and/or consuming resources.
+-----------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx035
+PID:  12015
+
+This process may still be running and/or consuming resources.
+-----------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx033
+PID:  6300
+
+This process may still be running and/or consuming resources.
+------------------------------------------------------------------------------
+-------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  5591
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  5590
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+[nyx042:05589] [0,0,1]-[0,0,0] mca_oob_tcp_peer_complete_connect: connection failed (errno=111) - retrying (pid=5589)

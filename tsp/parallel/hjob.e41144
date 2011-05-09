@@ -1,0 +1,66 @@
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+[0] func:/home/software/rhel4/openmpi-1.0.2/pgi/lib/libopal.so.0 [0x2a95ba8674]
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  25875
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  25874
+
+This process may still be running and/or consuming resources.
+---------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32202
+
+This process may still be running and/or consuming resources.
+----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PID:  25875
+
+This process may still be -----------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32201
+
+This process may still be running and/or consuming resources.
+---------------------------------------running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx-login.engin.umich.edu
+PI-----------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32202
+
+This process may still be running and/or consuming resources.
+---------------------D:  25874
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+-----------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx077
+PID:  32201
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------

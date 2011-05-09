@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------
+Failed to find or execute the following executable:
+
+Host:       nyx033
+Executable: ./a.out
+
+Cannot continue.
+--------------------------------------------------------------------------
+[nyx033:24303] [0,0,2] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx033:24303] [0,0,2] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx033:24303] [0,0,2] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Communication failure in file unpack_api_response/gpr_base_unpack_put_get.c at line 84
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Communication failure in file gpr_proxy_put_get.c at line 159
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Communication failure in file unpack_api_response/gpr_base_unpack_subscribe.c at line 55
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Communication failure in file gpr_proxy_subscribe.c at line 153
+[nyx038:04873] [0,0,1] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx038:04873] [0,0,1] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx038:04873] [0,0,1] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Communication failure in file unpack_api_response/gpr_base_unpack_put_get.c at line 84
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Communication failure in file gpr_proxy_put_get.c at line 159
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Communication failure in file unpack_api_response/gpr_base_unpack_subscribe.c at line 55
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Communication failure in file gpr_proxy_subscribe.c at line 153
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx021:12301] [0,0,6] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Communication failure in file unpack_api_response/gpr_base_unpack_put_get.c at line 84
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Communication failure in file gpr_proxy_put_get.c at line 159
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Communication failure in file unpack_api_response/gpr_base_unpack_subscribe.c at line 55
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Communication failure in file gpr_proxy_subscribe.c at line 153
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx020:18400] [0,0,7] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx018:17819] [0,0,8] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx030:23369] [0,0,3] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx030:23369] [0,0,3] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx030:23369] [0,0,3] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx024:21436] [0,0,4] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx024:21436] [0,0,4] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx024:21436] [0,0,4] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
+[nyx022:14030] [0,0,5] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx022:14030] [0,0,5] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx022:14030] [0,0,5] ORTE_ERROR_LOG: Fatal in file orted.c at line 362
