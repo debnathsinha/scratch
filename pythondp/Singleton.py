@@ -1,9 +1,23 @@
-class Singleton():
-    def __init__(this):
-        print "foo"
+class Singleton:
+    __single = None
+    def __init__(self):
+        if Singleton.__single:
+            raise Singleton.__single
 
-x = Singleton()
+        Singleton.single = self
 
-s = "Hello World\n"
 
-print s[1:] + s[3:7] + "\n" + s[:4]
+class Child(Singleton):
+    def foo(self):
+        print "child"
+
+class Junior(Singleton):
+    def foo(self):
+        print "junior"
+
+
+s = Singleton()
+s1 = Singleton()
+
+c = Child()
+j = Junior()

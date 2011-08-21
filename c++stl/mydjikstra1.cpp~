@@ -1,0 +1,17 @@
+#include <vector>
+#include <iostream>
+
+vector<Node *> nodes;
+vector<Edge *> edges;
+
+class Node {
+
+public:
+  Node(char id): id(id), previous(NULL),
+		 distanceFromStart(INT_MAX) {}
+
+  char id;
+  Node * previous;
+  int distanceFromStart;
+
+};

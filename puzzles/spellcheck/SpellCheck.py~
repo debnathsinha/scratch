@@ -1,0 +1,6 @@
+def parseDict():
+    print "Parsing dictionary"
+
+if __name__ == "__main__":
+    print "Starting spell check"
+    parseDict()

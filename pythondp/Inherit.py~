@@ -1,0 +1,17 @@
+class Base:
+    def __init__(self):
+        print "init base"
+        
+    def foo():
+        print "foo from base"
+
+class Derived(Base):
+    def __init__(self):
+        print "init derived"
+
+    def foo():
+        print "foo from derived"
+
+
+x = Derived()
+x.foo()

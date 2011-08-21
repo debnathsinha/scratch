@@ -1,0 +1,23 @@
+class Node():
+    left,right,data = None, None, 0
+
+    def __init__(self, data):
+        self.data = data
+
+class BST():
+    def __init__(self):
+        self.Root = None
+
+    def addNode(self, data):
+        return Node(data)
+
+    def insert(self, root, data):
+        if root == None:
+            return self.addNode(data)
+        else:
+            if data <= root.data:
+                root.left = self.insert(root.left, data)
+            else:
+                root.right = self.insert(root.right, data)
+
+        return root

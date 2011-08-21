@@ -1,0 +1,37 @@
+#include <iostream>
+#include <vector>
+
+class Add2 {
+
+public:
+  Add2() {}
+
+  int operator()(int y) {
+    return y+2;
+  }
+
+};
+
+class Mul3 {
+
+public:
+
+  Mul3() {}
+
+  int operator()(int y ) {
+    return y * 3;
+  }
+
+};
+
+int main() {
+
+  vector<int> in;
+  vector<int> out;
+  
+  in.push_back(1);
+  in.push_back(0);
+  in.push_back(3);
+
+  transform(in.begin(), in.end(), out.begin(), Add2(in.pop()));
+}

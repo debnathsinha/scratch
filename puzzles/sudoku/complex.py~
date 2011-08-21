@@ -1,0 +1,7 @@
+class Complex():
+    def __init__(self, real, imaginary):
+        self.real = real
+        self.imaginary = imaginary
+
+    def __str__(self):
+        print self.real,"+ i", self.imaginary

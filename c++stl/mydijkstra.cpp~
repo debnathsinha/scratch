@@ -1,0 +1,28 @@
+#include <list>
+#include <map>
+#include <iostream>
+
+using namespace std;
+
+typedef int vertex_t;
+typedef double weight_t;
+
+struct edge {
+
+  vertex_t target;
+  weight_t weight;
+  edge( vertex_t arg_target, weight_t arg_weight ): target(arg_target), weight( arg_weight ) {}
+};
+
+typedef map<vertex_t, list<edge> > adjacency_map_t;
+
+
+int main() {
+
+  //ifstream file("/home/debnathsinha/Documents/code/puzzles/spellcheck/big.txt");
+  //istream_iterator<string> it(file);
+  //cout << *(it++) << endl << *(it++) << endl;
+
+
+  
+}

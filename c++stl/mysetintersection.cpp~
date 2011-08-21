@@ -1,0 +1,8 @@
+
+int * intersect( int a[], int a_len, int b[], int b_len() ) {
+
+  int * c = (int*) malloc( sizeof( int ) * (a_len + b_len) );
+
+  sort(a,a+alen);
+  sort(b,b+b_len);
+

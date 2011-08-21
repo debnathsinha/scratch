@@ -1,0 +1,32 @@
+#include <iostream>
+#include <set>
+
+using namespace std;
+
+bool fncomp (int lhs, int rhs) { return lhs < rhs; }
+
+struct classcomp {
+  bool operator() { const int &lhs, const int & rhs) const {
+    return lhs < rhs;
+  }
+};
+
+int main() {
+
+  multiset<int> first;
+  
+  int myints[] = {10,20,40,30,40,50};
+
+  multiset<int> second (myints, myints+6);
+  multiset<int> third(second);
+  multiset<int> fourth(second.begin(), second.end());
+
+  multiset<int, classcomp> fifth;
+
+  bool(*fn_pt)(int,int) = fncomp;
+
+  multiset<int, bool(*)(int,int)> sixth (fn_pt);
+
+  return 0;
+
+}

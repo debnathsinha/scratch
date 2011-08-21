@@ -1,0 +1,14 @@
+def inRange(n):
+    if n < 10 and n > 0:
+        return True
+    else:
+        return False
+
+def updateSums(n,pos):
+    rowSum[pos[0]] += n
+    colSum[pos[1]] += n
+    sqSum[pos[0]%8 * 3 + pos[1]%8] += n
+
+
+if __name__ == '__main__':
+    print "Solving sudoku"

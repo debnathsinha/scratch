@@ -1,0 +1,20 @@
+#include <iostream>
+
+template<class T>
+void draw(T & shape) {
+
+  printf("Drawing\n");
+
+}
+
+int main(int argc, char *argv[]) {
+
+  int i = 0;
+  printf("%d\n", argc);
+  while( i < argc ) {
+    printf("%s\n", argv[i]);
+    i++;
+
+  }
+
+}

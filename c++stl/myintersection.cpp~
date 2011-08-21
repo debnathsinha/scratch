@@ -1,0 +1,19 @@
+#include <iostream>
+#include <algorithm>
+
+int * intersect( int[] a, int[] b ) {
+
+  sort(a);
+  sort(b);
+
+
+
+}
+
+int main( int argc, char ** argv ) {
+
+  int a[] = { 1,2,3,4,5,6,7,8,9};
+  int b[] = {2,4,6,6,8};
+
+  intersect(a,b);
+}

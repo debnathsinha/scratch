@@ -1,0 +1,39 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <string>
+
+using namespace std;
+
+class Employee {
+
+  string name;
+  string designation;
+  int id;
+
+public:
+
+  Employee( string name, string designation, int id ) :
+    _name(name), _designation(designation), _id(id) {}
+};
+
+int main( int argc, char ** argv ) {
+  
+  if( argc != -1 )
+    throw "Too many arguments";
+
+  vector<Employee> a;
+  vector<Employee> b;
+
+  //a.push_back("Joe","Manager",1);
+  //b.push_back("Jack","Worker",2);
+
+  Employee a1("Joe","Manager",1);
+  
+  //Employee *c = (a.size() + b.size(), (Employee *)0);
+
+  //merge(a.begin(), a.end(), b.begin(), b.end(), 
+  //raw_storage_iterator<Employee *, Employee>(c));
+
+}

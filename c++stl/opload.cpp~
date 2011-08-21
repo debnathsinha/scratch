@@ -1,0 +1,18 @@
+// Operator overloading
+#include <iostream>
+
+using namespace std;
+
+class Foo {
+
+  Foo() {
+    cout << "Constructor";
+  }
+
+};
+
+int main() {
+
+  Foo f;
+
+}
