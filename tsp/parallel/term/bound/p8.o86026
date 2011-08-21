@@ -1,0 +1,192 @@
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	96:0	
+40:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	11:0	100:0	
+79:0	64:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	78:0	53:0	77:0	
+80:0	72:0	52:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	
+92:0	15:0	84:0	90:0	90:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	86:0	27:0	
+20:0	61:0	62:0	29:0	35:0	54:0	38:0	77:0	52:0	67:0	54:0	4:0	44:0	94:0	94:0	
+34:0	2:0	30:0	36:0	7:0	38:0	73:0	29:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+77:0	25:0	64:0	81:0	3:0	77:0	29:0	83:0	34:0	23:0	90:0	36:0	69:0	96:0	59:0	
+28:0	14:0	53:0	92:0	46:0	52:0	74:0	34:0	66:0	86:0	44:0	93:0	40:0	82:0	69:0	
+56:0	81:0	50:0	7:0	7:0	67:0	64:0	23:0	86:0	92:0	49:0	22:0	96:0	93:0	15:0	
+48:0	16:0	98:0	95:0	24:0	54:0	36:0	90:0	44:0	49:0	89:0	65:0	44:0	62:0	29:0	
+
+
+
+
+63:0	41:0	30:0	53:0	98:0	4:0	69:0	36:0	93:0	22:0	65:0	79:0	31:0	45:0	23:0	
+37:0	13:0	78:0	9:0	91:0	44:0	17:0	69:0	40:0	96:0	44:0	31:0	19:0	28:0	56:0	
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+52:0	11:0	53:0	20:0	86:0	94:0	45:0	96:0	82:0	93:0	62:0	45:0	28:0	42:0	17:0	
+96:0	100:0	77:0	67:0	27:0	94:0	89:0	59:0	69:0	15:0	29:0	23:0	56:0	17:0	91:0	
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+There should now be 132 elements in the queue and nsend:0
+The time taken for the bfs was 0.033954 and 0 nodes were successful
+Upper bound is being revised by 1 to 338:338
+Upper bound is being revised by 1 to 337:337
+Upper bound is being revised by 1 to 329:329
+Upper bound is being revised by 2 to 349:349
+Upper bound is being revised by 1 to 323:323
+Upper bound is being revised by 1 to 317:317
+Upper bound is being revised by 1 to 316:316
+Upper bound is being revised by 1 to 304:304
+Upper bound is being revised by 2 to 331:331
+Upper bound is being revised by 4 to 348:348
+Upper bound is being revised by 3 to 344:344
+Upper bound is being revised by 7 to 343:343
+Upper bound is being revised by 3 to 334:334
+Upper bound is being revised by 1 to 294:294
+Upper bound is being revised by 3 to 329:329
+Upper bound is being revised by 7 to 342:342
+Upper bound is being revised by 7 to 341:341
+Upper bound is being revised by 7 to 339:339
+Upper bound is being revised by 7 to 336:336
+Upper bound is being revised by 5 to 348:348
+Upper bound is being revised by 7 to 330:330
+Upper bound is being revised by 3 to 328:328
+Upper bound is being revised by 3 to 324:324
+Upper bound is being revised by 2 to 324:324
+Upper bound is being revised by 2 to 321:321
+Upper bound is being revised by 7 to 321:321
+Upper bound is being revised by 6 to 347:347
+Upper bound is being revised by 5 to 345:345
+Upper bound is being revised by 5 to 341:341
+Upper bound is being revised by 4 to 342:342
+Upper bound is being revised by 6 to 346:346
+Upper bound is being revised by 6 to 331:331
+Upper bound is being revised by 2 to 319:319
+Upper bound is being revised by 2 to 316:316
+Upper bound is being revised by 2 to 315:315
+Upper bound is being revised by 2 to 314:314
+Upper bound is being revised by 3 to 320:320
+Upper bound is being revised by 3 to 319:319
+Upper bound is being revised by 2 to 306:306
+Upper bound is being revised by 3 to 305:305
+Upper bound is being revised by 3 to 293:293
+Upper bound is being revised by 2 to 296:296
+Upper bound is being revised by 2 to 291:291
+Upper bound is being revised by 2 to 289:289
+Upper bound is being revised by 2 to 285:285
+Upper bound is being revised by 2 to 284:284
+Upper bound is being revised by 2 to 283:283
+Upper bound is being revised by 2 to 278:278
+Upper bound is being revised by 2 to 276:276
+Upper bound is being revised by 2 to 275:275
+Upper bound is being revised by 2 to 264:264
+Upper bound is being revised by 6 to 330:330
+Upper bound is being revised by 3 to 290:290
+Upper bound is being revised by 1 to 284:284
+Upper bound is being revised by 3 to 280:280
+Upper bound is being revised by 4 to 339:339
+Upper bound is being revised by 4 to 335:335
+Upper bound is being revised by 4 to 332:332
+Upper bound is being revised by 3 to 270:270
+Upper bound is being revised by 7 to 319:319
+Upper bound is being revised by 7 to 310:310
+Upper bound is being revised by 7 to 306:306
+Upper bound is being revised by 6 to 326:326
+Upper bound is being revised by 6 to 318:318
+Upper bound is being revised by 3 to 265:265
+Upper bound is being revised by 0 to 350:350
+Upper bound is being revised by 4 to 326:326
+Upper bound is being revised by 4 to 320:320
+Upper bound is being revised by 4 to 317:317
+Upper bound is being revised by 6 to 317:317
+Upper bound is being revised by 6 to 306:306
+Upper bound is being revised by 6 to 304:304
+Upper bound is being revised by 6 to 303:303
+Upper bound is being revised by 6 to 292:292
+Upper bound is being revised by 4 to 314:314
+Upper bound is being revised by 4 to 313:313
+Processor 2 is now out of work and its best is 264!!!
+2 says the best was 264 and ubsuc:19 lbsuc:0.000000
+2 entered dfs 2223925 times and time : 75.526664 ; upperb changed:0 times and did not 0 times
+[2]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[2]:9.559394
+TIME:9.611322
+Upper bound is being revised by 4 to 301:301
+Upper bound is being revised by 4 to 287:287
+Upper bound is being revised by 4 to 285:285
+Upper bound is being revised by 6 to 287:287
+Upper bound is being revised by 6 to 277:277
+Upper bound is being revised by 4 to 279:279
+Upper bound is being revised by 0 to 346:346
+Upper bound is being revised by 0 to 331:331
+Upper bound is being revised by 0 to 327:327
+Upper bound is being revised by 0 to 326:326
+Upper bound is being revised by 0 to 318:318
+Upper bound is being revised by 5 to 336:336
+Upper bound is being revised by 5 to 325:325
+Processor 3 is now out of work and its best is 265!!!
+3 says the best was 265 and ubsuc:13 lbsuc:0.000000
+3 entered dfs 2619913 times and time : 101.745051 ; upperb changed:0 times and did not 0 times
+[3]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[3]:12.713346
+TIME:12.766399
+Upper bound is being revised by 4 to 275:275
+Upper bound is being revised by 5 to 324:324
+Upper bound is being revised by 5 to 306:306
+Upper bound is being revised by 0 to 312:312
+Upper bound is being revised by 1 to 283:283
+Upper bound is being revised by 1 to 282:282
+Upper bound is being revised by 1 to 281:281
+Upper bound is being revised by 1 to 279:279
+Upper bound is being revised by 1 to 264:264
+Processor 1 is now out of work and its best is 264!!!
+1 says the best was 264 and ubsuc:14 lbsuc:0.000000
+1 entered dfs 3296685 times and time : 125.339353 ; upperb changed:0 times and did not 0 times
+[1]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[1]:16.202994
+TIME:16.236212
+Upper bound is being revised by 0 to 307:307
+Upper bound is being revised by 0 to 306:306
+Upper bound is being revised by 0 to 305:305
+Upper bound is being revised by 0 to 293:293
+Processor 6 is now out of work and its best is 277!!!
+6 says the best was 277 and ubsuc:13 lbsuc:0.000000
+6 entered dfs 3852687 times and time : 152.010112 ; upperb changed:0 times and did not 0 times
+[6]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[6]:19.072941
+TIME:19.125916
+Processor 4 is now out of work and its best is 275!!!
+4 says the best was 275 and ubsuc:15 lbsuc:0.000000
+4 entered dfs 4123271 times and time : 154.137348 ; upperb changed:0 times and did not 0 times
+[4]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[4]:19.362583
+TIME:19.415479
+Upper bound is being revised by 5 to 299:299
+Upper bound is being revised by 7 to 305:305
+Upper bound is being revised by 7 to 295:295
+Upper bound is being revised by 7 to 292:292
+Processor 7 is now out of work and its best is 292!!!
+7 says the best was 292 and ubsuc:13 lbsuc:0.000000
+7 entered dfs 6085528 times and time : 199.584574 ; upperb changed:0 times and did not 0 times
+[7]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[7]:25.291064
+TIME:25.365528
+Upper bound is being revised by 5 to 298:298
+Upper bound is being revised by 5 to 290:290
+Upper bound is being revised by 5 to 289:289
+Processor 5 is now out of work and its best is 289!!!
+5 says the best was 289 and ubsuc:11 lbsuc:0.000000
+5 entered dfs 6228201 times and time : 225.918552 ; upperb changed:0 times and did not 0 times
+[5]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[5]:28.885226
+TIME:28.947063
+PROC 0 now out of work and its best is 293
+Time taken by processor 0 is 38.724835
+
+0 says the best was 264 and ubsuc:11 lbsuc:4
+0 eneter dfs 8383281 times and time was 276.040143 and upperbound changed 0 times and did not 0 times
+[0]:NUMBER OF LEAVES -1073747904
+TOTAL TIME INSIDE DFS[0]:19.610957
+TIME:38.726192

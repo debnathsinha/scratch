@@ -1,0 +1,81 @@
+
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+40:0	52:0	96:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	
+79:0	96:0	41:0	13:0	11:0	100:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	
+80:0	92:0	13:0	50:0	98:0	30:0	78:0	53:0	77:0	41:0	90:0	29:0	36:0	
+92:0	64:0	11:0	98:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	90:0	
+20:0	72:0	100:0	30:0	92:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	
+34:0	15:0	22:0	78:0	7:0	7:0	86:0	27:0	54:0	38:0	77:0	52:0	67:0	
+77:0	61:0	52:0	53:0	95:0	3:0	27:0	54:0	4:0	44:0	94:0	94:0	73:0	
+28:0	2:0	84:0	77:0	53:0	46:0	54:0	4:0	29:0	74:0	64:0	36:0	69:0	
+56:0	25:0	62:0	41:0	9:0	7:0	38:0	44:0	74:0	17:0	45:0	89:0	83:0	
+48:0	14:0	30:0	90:0	20:0	24:0	77:0	94:0	64:0	45:0	34:0	23:0	90:0	
+63:0	81:0	64:0	29:0	67:0	98:0	52:0	94:0	36:0	89:0	23:0	36:0	69:0	
+37:0	16:0	53:0	36:0	90:0	91:0	67:0	73:0	69:0	83:0	90:0	69:0	96:0	
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+There should now be 3 elements in the queue and nsend:0
+The time taken for the bfs was 0.009254 and 0 nodes were successful
+1111111110110   3 Entered dfs 725177 times and leaf 7835 times
+Sucessful 484867 times and not 240310
+Timing[3]: 1.866809 1.866809
+1111111111010   2 Entered dfs 702621 times and leaf 7849 times
+Sucessful 472062 times and not 230559
+Timing[2]: 2.020596 2.020596
+1111111111100   1 Entered dfs 1936055 times and leaf 28410 times
+Sucessful 1239007 times and not 697048
+Timing[1]: 5.640873 5.640873
+1111111101110   1 Entered dfs 432005 times and leaf 3250 times
+Sucessful 298766 times and not 133239
+Timing[1]: 1.242199 6.883072
+1111110111110   3 Entered dfs 2226254 times and leaf 42969 times
+Sucessful 1403915 times and not 822339
+Timing[3]: 5.700246 7.567055
+1111101111110   1 Entered dfs 710637 times and leaf 8915 times
+Sucessful 470135 times and not 240502
+Timing[1]: 2.053482 8.936554
+Processor 1 is now out of work and its best is 249!!!
+1 says the best was 249 and ubsuc:0 lbsuc:0
+1 entered dfs 3078697 times and time : 75.164687 ; upperb changed:0 times and did not 0 times
+[1]:NUMBER OF LEAVES 0
+TIME:8.987943
+1101111111110   0 Entered dfs 3569462 times and 62412 leaves
+Successful 2276152 times and not 1293310 times
+Timing[0]: 5.101493 5.101493
+1110111111110   3 Entered dfs 1336705 times and leaf 23353 times
+Sucessful 858727 times and not 477978
+Timing[3]: 3.447485 11.014540
+Processor 3 is now out of work and its best is 219!!!
+3 says the best was 219 and ubsuc:0 lbsuc:0
+3 entered dfs 4288136 times and time : 93.378736 ; upperb changed:0 times and did not 0 times
+[3]:NUMBER OF LEAVES 0
+TIME:11.067018
+1111111011110   2 Entered dfs 3318848 times and leaf 74914 times
+Sucessful 2023049 times and not 1295799
+Timing[2]: 9.265743 11.286339
+1011111111110   0 Entered dfs 2878904 times and 56438 leaves
+Successful 1813842 times and not 1065062 times
+Timing[0]: 4.103361 9.204854
+1111011111110   2 Entered dfs 2823752 times and leaf 67736 times
+Sucessful 1712704 times and not 1111048
+Timing[2]: 7.254939 18.541278
+Processor 2 is now out of work and its best is 212!!!
+2 says the best was 212 and ubsuc:0 lbsuc:0
+2 entered dfs 6845221 times and time : 161.143331 ; upperb changed:0 times and did not 0 times
+[2]:NUMBER OF LEAVES 0
+TIME:18.593570
+111111111110   0 Entered dfs 5632162 times and 190630 leaves
+Successful 3284662 times and not 2347500 times
+Timing[0]: 7.259466 16.464320
+PROC 0 now out of work and its best is 212
+Time taken by processor 0 is 32.830003
+
+0 says the best was 212 and ubsuc:0 lbsuc:0
+0 eneter dfs 12080528 times and time was 284.487899 and upperbound changed 0 times and did not 0 times
+[0]:NUMBER OF LEAVES -1073747904
+TIME:32.830746

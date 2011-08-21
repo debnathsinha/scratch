@@ -1,0 +1,270 @@
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	
+40:0	96:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	
+79:0	92:0	11:0	100:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	
+80:0	64:0	100:0	78:0	53:0	77:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	
+92:0	72:0	22:0	53:0	53:0	9:0	20:0	67:0	90:0	35:0	7:0	3:0	46:0	7:0	
+20:0	15:0	52:0	77:0	9:0	24:0	98:0	91:0	86:0	27:0	54:0	38:0	77:0	52:0	
+34:0	61:0	84:0	41:0	20:0	98:0	67:0	54:0	4:0	44:0	94:0	94:0	73:0	29:0	
+77:0	2:0	62:0	90:0	67:0	91:0	54:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+28:0	25:0	30:0	29:0	90:0	86:0	4:0	64:0	83:0	34:0	23:0	90:0	36:0	69:0	
+56:0	14:0	64:0	36:0	35:0	27:0	44:0	36:0	34:0	96:0	59:0	66:0	86:0	44:0	
+48:0	81:0	53:0	81:0	7:0	54:0	94:0	69:0	23:0	59:0	93:0	40:0	82:0	69:0	
+63:0	16:0	50:0	92:0	3:0	38:0	94:0	17:0	90:0	66:0	40:0	92:0	49:0	22:0	
+37:0	41:0	98:0	7:0	46:0	77:0	73:0	45:0	36:0	86:0	82:0	49:0	96:0	93:0	
+52:0	13:0	30:0	95:0	7:0	52:0	29:0	89:0	69:0	44:0	69:0	22:0	93:0	15:0	
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+There should now be 16 elements in the queue and nsend:0
+The time taken for the bfs was 0.016829 and 0 nodes were successful
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+1 received its new upperbound 353 from 5 and its prev upperbound was 361
+2 received its new upperbound 353 from 5 and its prev upperbound was 336
+3 received its new upperbound 353 from 5 and its prev upperbound was 361
+4 received its new upperbound 353 from 5 and its prev upperbound was 339
+6 received its new upperbound 353 from 5 and its prev upperbound was 327
+7 received its new upperbound 353 from 5 and its prev upperbound was 361
+8 received its new upperbound 353 from 5 and its prev upperbound was 346
+9 received its new upperbound 353 from 5 and its prev upperbound was 337
+10 received its new upperbound 353 from 5 and its prev upperbound was 336
+11 received its new upperbound 353 from 5 and its prev upperbound was 361
+12 received its new upperbound 353 from 5 and its prev upperbound was 361
+13 received its new upperbound 353 from 5 and its prev upperbound was 341
+14 received its new upperbound 353 from 5 and its prev upperbound was 338
+15 received its new upperbound 353 from 5 and its prev upperbound was 356
+1 received its new upperbound 335 from 13 and its prev upperbound was 353
+2 received its new upperbound 335 from 13 and its prev upperbound was 336
+3 received its new upperbound 335 from 13 and its prev upperbound was 353
+4 received its new upperbound 335 from 13 and its prev upperbound was 339
+6 received its new upperbound 335 from 13 and its prev upperbound was 327
+7 received its new upperbound 335 from 13 and its prev upperbound was 353
+8 received its new upperbound 335 from 13 and its prev upperbound was 346
+9 received its new upperbound 335 from 13 and its prev upperbound was 337
+10 received its new upperbound 335 from 13 and its prev upperbound was 336
+11 received its new upperbound 335 from 13 and its prev upperbound was 353
+12 received its new upperbound 335 from 13 and its prev upperbound was 353
+14 received its new upperbound 335 from 13 and its prev upperbound was 338
+15 received its new upperbound 335 from 13 and its prev upperbound was 353
+1 received its new upperbound 331 from 10 and its prev upperbound was 335
+2 received its new upperbound 331 from 10 and its prev upperbound was 335
+3 received its new upperbound 331 from 10 and its prev upperbound was 335
+4 received its new upperbound 331 from 10 and its prev upperbound was 335
+6 received its new upperbound 331 from 10 and its prev upperbound was 327
+7 received its new upperbound 331 from 10 and its prev upperbound was 335
+8 received its new upperbound 331 from 10 and its prev upperbound was 335
+9 received its new upperbound 331 from 10 and its prev upperbound was 335
+11 received its new upperbound 331 from 10 and its prev upperbound was 335
+12 received its new upperbound 331 from 10 and its prev upperbound was 335
+14 received its new upperbound 331 from 10 and its prev upperbound was 335
+15 received its new upperbound 331 from 10 and its prev upperbound was 335
+1 received its new upperbound 328 from 7 and its prev upperbound was 331
+2 received its new upperbound 328 from 7 and its prev upperbound was 331
+3 received its new upperbound 328 from 7 and its prev upperbound was 331
+4 received its new upperbound 328 from 7 and its prev upperbound was 331
+6 received its new upperbound 328 from 7 and its prev upperbound was 327
+8 received its new upperbound 328 from 7 and its prev upperbound was 331
+9 received its new upperbound 328 from 7 and its prev upperbound was 331
+11 received its new upperbound 328 from 7 and its prev upperbound was 331
+12 received its new upperbound 328 from 7 and its prev upperbound was 331
+14 received its new upperbound 328 from 7 and its prev upperbound was 331
+15 received its new upperbound 328 from 7 and its prev upperbound was 331
+5 received its new upperbound 328 from 7 and its prev upperbound was 343
+5 received its new upperbound 331 from 10 and its prev upperbound was 328
+5 received its new upperbound 335 from 13 and its prev upperbound was 328
+13 received its new upperbound 328 from 7 and its prev upperbound was 327
+13 received its new upperbound 331 from 10 and its prev upperbound was 327
+10 received its new upperbound 328 from 7 and its prev upperbound was 325
+1 received its new upperbound 327 from 9 and its prev upperbound was 328
+2 received its new upperbound 327 from 9 and its prev upperbound was 328
+3 received its new upperbound 327 from 9 and its prev upperbound was 328
+5 received its new upperbound 327 from 9 and its prev upperbound was 328
+4 received its new upperbound 327 from 9 and its prev upperbound was 328
+6 received its new upperbound 327 from 9 and its prev upperbound was 327
+8 received its new upperbound 327 from 9 and its prev upperbound was 328
+10 received its new upperbound 327 from 9 and its prev upperbound was 325
+11 received its new upperbound 327 from 9 and its prev upperbound was 328
+13 received its new upperbound 327 from 9 and its prev upperbound was 327
+12 received its new upperbound 327 from 9 and its prev upperbound was 328
+14 received its new upperbound 327 from 9 and its prev upperbound was 328
+15 received its new upperbound 327 from 9 and its prev upperbound was 328
+1 received its new upperbound 312 from 15 and its prev upperbound was 327
+2 received its new upperbound 312 from 15 and its prev upperbound was 327
+3 received its new upperbound 312 from 15 and its prev upperbound was 327
+5 received its new upperbound 312 from 15 and its prev upperbound was 327
+4 received its new upperbound 312 from 15 and its prev upperbound was 327
+6 received its new upperbound 312 from 15 and its prev upperbound was 327
+8 received its new upperbound 312 from 15 and its prev upperbound was 327
+10 received its new upperbound 312 from 15 and its prev upperbound was 325
+11 received its new upperbound 312 from 15 and its prev upperbound was 327
+13 received its new upperbound 312 from 15 and its prev upperbound was 327
+12 received its new upperbound 312 from 15 and its prev upperbound was 327
+14 received its new upperbound 312 from 15 and its prev upperbound was 327
+1 received its new upperbound 311 from 4 and its prev upperbound was 312
+2 received its new upperbound 311 from 4 and its prev upperbound was 312
+3 received its new upperbound 311 from 4 and its prev upperbound was 312
+5 received its new upperbound 311 from 4 and its prev upperbound was 312
+6 received its new upperbound 311 from 4 and its prev upperbound was 312
+8 received its new upperbound 311 from 4 and its prev upperbound was 312
+10 received its new upperbound 311 from 4 and its prev upperbound was 312
+11 received its new upperbound 311 from 4 and its prev upperbound was 312
+13 received its new upperbound 311 from 4 and its prev upperbound was 312
+12 received its new upperbound 311 from 4 and its prev upperbound was 312
+14 received its new upperbound 311 from 4 and its prev upperbound was 312
+7 received its new upperbound 311 from 4 and its prev upperbound was 298
+7 received its new upperbound 327 from 9 and its prev upperbound was 298
+7 received its new upperbound 312 from 15 and its prev upperbound was 298
+9 received its new upperbound 311 from 4 and its prev upperbound was 315
+9 received its new upperbound 312 from 15 and its prev upperbound was 311
+15 received its new upperbound 311 from 4 and its prev upperbound was 286
+1 received its new upperbound 308 from 12 and its prev upperbound was 311
+2 received its new upperbound 308 from 12 and its prev upperbound was 311
+3 received its new upperbound 308 from 12 and its prev upperbound was 311
+5 received its new upperbound 308 from 12 and its prev upperbound was 311
+4 received its new upperbound 308 from 12 and its prev upperbound was 311
+7 received its new upperbound 308 from 12 and its prev upperbound was 298
+6 received its new upperbound 308 from 12 and its prev upperbound was 311
+9 received its new upperbound 308 from 12 and its prev upperbound was 311
+8 received its new upperbound 308 from 12 and its prev upperbound was 311
+13 received its new upperbound 308 from 12 and its prev upperbound was 311
+15 received its new upperbound 308 from 12 and its prev upperbound was 286
+14 received its new upperbound 308 from 12 and its prev upperbound was 311
+11 received its new upperbound 308 from 12 and its prev upperbound was 311
+10 received its new upperbound 308 from 12 and its prev upperbound was 311
+3 received its new upperbound 295 from 2 and its prev upperbound was 308
+1 received its new upperbound 295 from 2 and its prev upperbound was 308
+5 received its new upperbound 295 from 2 and its prev upperbound was 308
+4 received its new upperbound 295 from 2 and its prev upperbound was 308
+6 received its new upperbound 295 from 2 and its prev upperbound was 308
+7 received its new upperbound 295 from 2 and its prev upperbound was 298
+9 received its new upperbound 295 from 2 and its prev upperbound was 308
+10 received its new upperbound 295 from 2 and its prev upperbound was 308
+8 received its new upperbound 295 from 2 and its prev upperbound was 308
+11 received its new upperbound 295 from 2 and its prev upperbound was 308
+13 received its new upperbound 295 from 2 and its prev upperbound was 308
+14 received its new upperbound 295 from 2 and its prev upperbound was 308
+15 received its new upperbound 295 from 2 and its prev upperbound was 286
+Processor 12 is now out of work and its best is 308!!!
+12 says the best was 308 and ubsuc:1 lbsuc:0.000000
+12 entered dfs 979475 times and time : 54.192238 ; upperb changed:7 times and did not 0 times
+[12]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[12]:7.512753
+TIME:7.568605
+0 received its new upperbound 308 from 12 and its prev upperbound was 361
+1 received its new upperbound 286 from 6 and its prev upperbound was 295
+3 received its new upperbound 286 from 6 and its prev upperbound was 295
+7 received its new upperbound 286 from 6 and its prev upperbound was 295
+5 received its new upperbound 286 from 6 and its prev upperbound was 295
+4 received its new upperbound 286 from 6 and its prev upperbound was 295
+9 received its new upperbound 286 from 6 and its prev upperbound was 295
+8 received its new upperbound 286 from 6 and its prev upperbound was 295
+10 received its new upperbound 286 from 6 and its prev upperbound was 295
+11 received its new upperbound 286 from 6 and its prev upperbound was 295
+3 received its new upperbound 292 from 0 and its prev upperbound was 286
+1 received its new upperbound 292 from 0 and its prev upperbound was 286
+5 received its new upperbound 292 from 0 and its prev upperbound was 286
+9 received its new upperbound 292 from 0 and its prev upperbound was 286
+4 received its new upperbound 292 from 0 and its prev upperbound was 286
+7 received its new upperbound 292 from 0 and its prev upperbound was 286
+8 received its new upperbound 292 from 0 and its prev upperbound was 286
+11 received its new upperbound 292 from 0 and its prev upperbound was 286
+10 received its new upperbound 292 from 0 and its prev upperbound was 286
+Processor 7 is now out of work and its best is 298!!!
+7 says the best was 298 and ubsuc:6 lbsuc:0.000000
+7 entered dfs 1241488 times and time : 65.192228 ; upperb changed:5 times and did not 5 times
+[7]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[7]:9.276883
+TIME:9.329467
+2 received its new upperbound 292 from 0 and its prev upperbound was 285
+2 received its new upperbound 286 from 6 and its prev upperbound was 285
+Processor 9 is now out of work and its best is 315!!!
+9 says the best was 315 and ubsuc:6 lbsuc:0.000000
+9 entered dfs 1353597 times and time : 74.366509 ; upperb changed:7 times and did not 3 times
+[9]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[9]:9.998583
+TIME:10.052838
+Processor 11 is now out of work and its best is 316!!!
+11 says the best was 316 and ubsuc:0 lbsuc:0.000000
+11 entered dfs 1146302 times and time : 78.628628 ; upperb changed:10 times and did not 1 times
+[11]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[11]:10.770571
+TIME:10.824896
+Processor 3 is now out of work and its best is 310!!!
+3 says the best was 310 and ubsuc:0 lbsuc:0.000000
+3 entered dfs 1202342 times and time : 82.803271 ; upperb changed:10 times and did not 1 times
+[3]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[3]:11.482132
+TIME:11.498576
+2 received its new upperbound 283 from 1 and its prev upperbound was 285
+5 received its new upperbound 283 from 1 and its prev upperbound was 286
+4 received its new upperbound 283 from 1 and its prev upperbound was 286
+Processor 4 is now out of work and its best is 311!!!
+4 says the best was 311 and ubsuc:6 lbsuc:0.000000
+4 entered dfs 1605543 times and time : 93.227761 ; upperb changed:9 times and did not 2 times
+[4]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[4]:12.422267
+TIME:12.473855
+2 received its new upperbound 273 from 5 and its prev upperbound was 283
+Processor 15 is now out of work and its best is 286!!!
+15 says the best was 286 and ubsuc:7 lbsuc:0.000000
+15 entered dfs 1596320 times and time : 97.389791 ; upperb changed:5 times and did not 3 times
+[15]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[15]:12.969943
+TIME:13.026804
+Processor 2 is now out of work and its best is 285!!!
+2 says the best was 285 and ubsuc:6 lbsuc:0.000000
+2 entered dfs 1791759 times and time : 114.859669 ; upperb changed:9 times and did not 3 times
+[2]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[2]:15.117713
+TIME:15.134746
+Processor 10 is now out of work and its best is 311!!!
+10 says the best was 311 and ubsuc:6 lbsuc:0.000000
+10 entered dfs 1753917 times and time : 115.188501 ; upperb changed:6 times and did not 4 times
+[10]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[10]:15.531747
+TIME:15.585838
+Processor 13 is now out of work and its best is 302!!!
+13 says the best was 302 and ubsuc:5 lbsuc:0.000000
+13 entered dfs 1688829 times and time : 117.432467 ; upperb changed:4 times and did not 4 times
+[13]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[13]:15.664462
+TIME:15.721083
+Processor 14 is now out of work and its best is 295!!!
+14 says the best was 295 and ubsuc:3 lbsuc:0.000000
+14 entered dfs 1619287 times and time : 122.048714 ; upperb changed:8 times and did not 1 times
+[14]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[14]:16.505851
+TIME:16.562238
+Processor 8 is now out of work and its best is 295!!!
+8 says the best was 295 and ubsuc:2 lbsuc:0.000000
+8 entered dfs 1653300 times and time : 126.148928 ; upperb changed:9 times and did not 2 times
+[8]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[8]:16.576678
+TIME:16.629969

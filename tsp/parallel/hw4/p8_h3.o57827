@@ -1,0 +1,11 @@
+Number of processors 8
+Processor 2 is out of work in time 148.145155
+Processor 7 is out of work in time 151.462830
+Processor 1 is out of work in time 164.381546
+Processor 5 is out of work in time 177.063044
+Processor 3 is out of work in time 185.802534
+The total time taken by processor 3 is 185.802646
+Processor 4 is out of work in time 193.329211
+
+ Sum : 10.007008
+The total time taken by processor 0 is 199.675851

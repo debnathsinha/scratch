@@ -1,0 +1,16 @@
+Number of processors 4
+Displaying the original queue of size : 4000
+
+Processor : 1
+
+Processor : 2
+
+Processor : 3
+
+Now processor 0 does its work
+The total time taken by processor 1 is 294.631574
+The total time taken by processor 2 is 301.228539
+The total time taken by processor 3 is 313.556810
+
+ Sum : 10.007008
+The total time taken by processor 0 is 316.815938

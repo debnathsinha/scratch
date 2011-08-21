@@ -1,0 +1,1302 @@
+
+85:0	40:0	79:0	80:0	92:0	
+40:0	20:0	34:0	77:0	28:0	
+79:0	34:0	56:0	48:0	63:0	
+80:0	77:0	48:0	37:0	52:0	
+92:0	28:0	63:0	52:0	96:0	 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of processors 16 and the time is 0.000298
+Number of times lower bound worked 64 an 1  4  3  2  0 
+ 1  4  3  2  0 
+ 1  4  3  2  0 
+d didn't work is 0 and the sum is 64
+The hueristic cost is 247
+The hueristic cost is 247
+The hueristic cost is 247
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+ 1  4  3  2  0 
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+The lower bound before calculating the dfs is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+Lower bound:144 and mycost:144
+Lower bound:144 and mycost:144
+Lower bound:144 and mycost:144
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+Lower bound:132 and mycost:132
+Lower bound:132 and mycost:132
+Lower bound:132 and mycost:132
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+ 1  4  3  2  0 
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+The hueristic cost is 247
+Lower bound:132 and mycost:155
+Lower bound:132 and mycost:155
+Lower bound:132 and mycost:155
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+Lower bound:132 and mycost:142
+Lower bound:132 and mycost:142
+Lower bound:132 and mycost:142
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+Lower bound:144 and mycost:144
+Lower bound:128 and mycost:128
+Lower bound:128 and mycost:128
+Lower bound:128 and mycost:128
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+Lower bound:132 and mycost:132
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Lower bound:127 and mycost:127
+Lower bound:127 and mycost:127
+Lower bound:127 and mycost:127
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+
+All nodes should have been visited
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+Lower bound:132 and mycost:155
+Lower bound:127 and mycost:144
+Lower bound:127 and mycost:144
+Lower bound:127 and mycost:144
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+Lower bound:132 and mycost:142
+Lower bound:127 and mycost:132
+Lower bound:127 and mycost:132
+Lower bound:127 and mycost:132
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+Lower bound:128 and mycost:128
+Lower bound:120 and mycost:120
+Lower bound:120 and mycost:120
+Lower bound:120 and mycost:120
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+Lower bound:127 and mycost:127
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:68
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+Lower bound:127 and mycost:144
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+Lower bound:127 and mycost:132
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+Lower bound:120 and mycost:120
+Lower bound:68 and mycost:155
+Lower bound:68 and mycost:155
+Lower bound:68 and mycost:155
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:142
+Lower bound:68 and mycost:142
+Lower bound:68 and mycost:142
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:120
+Lower bound:68 and mycost:120
+Lower bound:68 and mycost:120
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:155
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:142
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:120
+Lower bound:68 and mycost:128
+Lower bound:68 and mycost:128
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:128
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:127
+Lower bound:68 and mycost:127
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+Lower bound:68 and mycost:127
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:128
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:127
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+
+
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:157
+The minimum cost through dfs is 247
+The minimum cost through dfs is 247
+The minimum cost through dfs is 247
+
+All nodes should have been visited
+
+
+All nodes should have been visited
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+Lower bound:68 and mycost:74
+The minimum cost through dfs is 247
+Lower bound:68 and mycost:117
+The hueristic cost is 247
+The hueristic cost is 247
+The hueristic cost is 247
+
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+
+All nodes should have been visited
+The hueristic cost is 247
+The hueristic cost is 247
+The hueristic cost is 247
+The minimum cost through dfs is 247
+The hueristic cost is 247
+Lower bound:68 and mycost:113
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+
+All nodes should have been visited
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Lower bound:68 and mycost:74
+ 1  4  3  2  0 
+ 1  4  3  2  0 
+ 1  4  3  2  0 
+The hueristic cost is 247
+
+The hueristic cost is 247
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+The minimum cost through dfs is 247
+The lower bound before calculating the dfs is 247
+The lower bound before calculating the dfs is 247
+The lower bound before calculating the dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+The hueristic cost is 247
+Lower bound:144 and mycost:144
+Lower bound:144 and mycost:144
+Lower bound:144 and mycost:144
+The hueristic cost is 247
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Lower bound:132 and mycost:132
+Lower bound:132 and mycost:132
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+Lower bound:132 and mycost:155
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+Lower bound:132 and mycost:142
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+Lower bound:128 and mycost:128
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+Lower bound:127 and mycost:127
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+Lower bound:127 and mycost:144
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+Lower bound:127 and mycost:132
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Lower bound:120 and mycost:120
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+Lower bound:68 and mycost:157
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+
+All nodes should have been visited
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64
+ 1  4  3  2  0 
+The hueristic cost is 247
+The lower bound before calculating the dfs is 247
+
+All nodes should have been visited
+Lower bound:144 and mycost:144
+
+All nodes should have been visited
+Lower bound:132 and mycost:132
+
+All nodes should have been visited
+Lower bound:132 and mycost:155
+
+All nodes should have been visited
+Lower bound:132 and mycost:142
+
+All nodes should have been visited
+Lower bound:128 and mycost:128
+
+All nodes should have been visited
+Lower bound:127 and mycost:127
+
+All nodes should have been visited
+Lower bound:127 and mycost:144
+
+All nodes should have been visited
+Lower bound:127 and mycost:132
+
+All nodes should have been visited
+Lower bound:120 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:155
+
+All nodes should have been visited
+Lower bound:68 and mycost:142
+
+All nodes should have been visited
+Lower bound:68 and mycost:120
+
+All nodes should have been visited
+Lower bound:68 and mycost:68
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+All nodes should have been visited
+Lower bound:68 and mycost:128
+
+All nodes should have been visited
+Lower bound:68 and mycost:127
+
+All nodes should have been visited
+Lower bound:68 and mycost:157
+
+All nodes should have been visited
+Lower bound:68 and mycost:117
+
+All nodes should have been visited
+Lower bound:68 and mycost:113
+
+All nodes should have been visited
+Lower bound:68 and mycost:74
+
+The minimum cost through dfs is 247
+Heuristic cost of going from city 1 to city 1  4  3  2  0 
+The hueristic cost is 247
+The hueristic cost is 247
+Number of times lower bound worked 64 and didn't work is 0 and the sum is 64

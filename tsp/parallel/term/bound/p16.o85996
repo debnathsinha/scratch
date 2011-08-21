@@ -1,0 +1,647 @@
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+The upper bound is 361
+The upper bound is 361
+The upper bound is 361
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+
+The upper bound is 361
+The upper bound is 361
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	
+40:0	96:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	
+79:0	92:0	11:0	100:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	
+80:0	64:0	100:0	78:0	53:0	77:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	
+92:0	72:0	22:0	53:0	53:0	9:0	20:0	67:0	90:0	35:0	7:0	3:0	46:0	7:0	
+20:0	15:0	52:0	77:0	9:0	24:0	98:0	91:0	86:0	27:0	54:0	38:0	77:0	52:0	
+34:0	61:0	84:0	41:0	20:0	98:0	67:0	54:0	4:0	44:0	94:0	94:0	73:0	29:0	
+77:0	2:0	62:0	90:0	67:0	91:0	54:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+28:0	25:0	30:0	29:0	90:0	86:0	4:0	64:0	83:0	34:0	23:0	90:0	36:0	69:0	
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+56:0	14:0	64:0	36:0	35:0	27:0	44:0	36:0	34:0	96:0	59:0	66:0	86:0	44:0	
+48:0	81:0	53:0	81:0	7:0	54:0	94:0	69:0	23:0	59:0	93:0	40:0	82:0	69:0	
+63:0	16:0	50:0	92:0	3:0	38:0	94:0	17:0	90:0	66:0	40:0	92:0	49:0	22:0	
+37:0	41:0	98:0	7:0	46:0	77:0	73:0	45:0	36:0	86:0	82:0	49:0	96:0	93:0	
+52:0	13:0	30:0	95:0	7:0	52:0	29:0	89:0	69:0	44:0	69:0	22:0	93:0	15:0	
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+
+20:5  2:7  11:2  7:12  3:11  9:4  4:8  2:1  4:6  14:1  7:4  3:4  7:3  7:4  
+The upper bound is 361
+There should now be 26 elements in the queue and nsend:0
+The time taken for the bfs was 0.026300 and 0 nodes were successful
+Upper bound is being revised by 1 to 356:356
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 1 to 350:350
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 7 to 347:347
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 7 to 346:346
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 7 to 344:344
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 11 to 355:355
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 11 to 352:352
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 7 to 336:336
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 15 to 360:360
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 3 to 357:357
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 1 to 348:348
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 13 to 360:360
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 15 to 359:359
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 3 to 355:355
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 6 to 352:352
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 6 to 347:347
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 3 to 343:343
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 6 to 337:337
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 5 to 353:353
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 0 to 347:347
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 15 to 352:352
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 1 to 345:345
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 1 to 339:339
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 11 to 338:338
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 10 to 355:355
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 0 to 336:336
+Sending....
+0 SENT 1 time(1166128495.385328)
+0 SENT 2 time(1166128495.385503)
+0 SENT 3 time(1166128495.385670)
+0 SENT 4 time(1166128495.385837)
+0 SENT 5 time(1166128495.386005)
+0 SENT 6 time(1166128495.386172)
+0 SENT 7 time(1166128495.386338)
+0 SENT 8 time(1166128495.386519)
+0 SENT 9 time(1166128495.386687)
+0 SENT 10 time(1166128495.386853)
+0 SENT 11 time(1166128495.387023)
+0 SENT 12 time(1166128495.387190)
+0 SENT 13 time(1166128495.387357)
+0 SENT 14 time(1166128495.387537)
+0 SENT 15 time(1166128495.387693)
+Upper bound is being revised by 3 to 331:331
+Sending....
+Upper bound is being revised by 4 to 340:340
+Sending....
+Upper bound is being revised by 13 to 359:359
+Sending....
+Upper bound is being revised by 14 to 359:359
+Sending....
+Upper bound is being revised by 5 to 346:346
+Sending....
+Upper bound is being revised by 15 to 346:346
+Sending....
+2 received its new upperbound 336 from 0 and its prev upperbound was 361
+3 SENT 1 time(1166128495.602652)
+4 SENT 1 time(1166128495.601046)
+13 SENT 1 time(1166128495.603475)
+14 SENT 1 time(1166128495.604186)
+1 received its new upperbound 336 from 0 and its prev upperbound was 339
+5 SENT 1 time(1166128495.601083)
+6 received its new upperbound 336 from 0 and its prev upperbound was 337
+8 received its new upperbound 336 from 0 and its prev upperbound was 361
+10 received its new upperbound 336 from 0 and its prev upperbound was 355
+3 SENT 2 time(1166128495.602947)
+1 received its new upperbound 331 from 3 and its prev upperbound was 336
+1 received its new upperbound 340 from 4 and its prev upperbound was 331
+2 received its new upperbound 331 from 3 and its prev upperbound was 336
+12 received its new upperbound 336 from 0 and its prev upperbound was 361
+1 received its new upperbound 346 from 5 and its prev upperbound was 331
+1 received its new upperbound 359 from 13 and its prev upperbound was 331
+15 SENT 1 time(1166128495.604924)
+13 SENT 2 time(1166128495.604305)
+3 SENT 4 time(1166128495.603503)
+5 SENT 2 time(1166128495.601952)
+4 SENT 2 time(1166128495.602083)
+2 received its new upperbound 346 from 5 and its prev upperbound was 331
+4 SENT 3 time(1166128495.602157)
+5 SENT 3 time(1166128495.602326)
+13 SENT 3 time(1166128495.604760)
+3 SENT 5 time(1166128495.604096)
+2 received its new upperbound 359 from 13 and its prev upperbound was 331
+5 SENT 4 time(1166128495.602603)
+2 received its new upperbound 340 from 4 and its prev upperbound was 331
+4 SENT 5 time(1166128495.602589)
+14 SENT 2 time(1166128495.606028)
+15 SENT 2 time(1166128495.606034)
+13 SENT 4 time(1166128495.605394)
+3 SENT 6 time(1166128495.604568)
+5 SENT 6 time(1166128495.603096)
+6 received its new upperbound 331 from 3 and its prev upperbound was 336
+2 received its new upperbound 359 from 14 and its prev upperbound was 331
+2 received its new upperbound 346 from 15 and its prev upperbound was 331
+6 received its new upperbound 346 from 5 and its prev upperbound was 331
+4 SENT 6 time(1166128495.603430)
+13 SENT 5 time(1166128495.605884)
+6 received its new upperbound 340 from 4 and its prev upperbound was 331
+14 SENT 3 time(1166128495.606665)
+15 SENT 3 time(1166128495.606670)
+13 SENT 6 time(1166128495.606449)
+7 received its new upperbound 336 from 0 and its prev upperbound was 336
+3 SENT 7 time(1166128495.605766)
+5 SENT 7 time(1166128495.604177)
+4 SENT 7 time(1166128495.604253)
+7 received its new upperbound 331 from 3 and its prev upperbound was 336
+6 received its new upperbound 359 from 13 and its prev upperbound was 331
+7 received its new upperbound 340 from 4 and its prev upperbound was 331
+7 received its new upperbound 346 from 5 and its prev upperbound was 331
+13 SENT 7 time(1166128495.606973)
+3 SENT 8 time(1166128495.606232)
+5 SENT 8 time(1166128495.604682)
+7 received its new upperbound 359 from 13 and its prev upperbound was 331
+8 received its new upperbound 331 from 3 and its prev upperbound was 336
+4 SENT 8 time(1166128495.604903)
+8 received its new upperbound 346 from 5 and its prev upperbound was 331
+8 received its new upperbound 340 from 4 and its prev upperbound was 331
+13 SENT 8 time(1166128495.607720)
+8 received its new upperbound 359 from 13 and its prev upperbound was 331
+11 received its new upperbound 336 from 0 and its prev upperbound was 338
+14 SENT 4 time(1166128495.608776)
+15 SENT 4 time(1166128495.608784)
+14 SENT 5 time(1166128495.609286)
+15 SENT 5 time(1166128495.609291)
+15 SENT 6 time(1166128495.610905)
+14 SENT 6 time(1166128495.610902)
+6 received its new upperbound 359 from 14 and its prev upperbound was 331
+6 received its new upperbound 346 from 15 and its prev upperbound was 331
+14 SENT 7 time(1166128495.611411)
+15 SENT 7 time(1166128495.611526)
+7 received its new upperbound 359 from 14 and its prev upperbound was 331
+7 received its new upperbound 346 from 15 and its prev upperbound was 331
+15 SENT 8 time(1166128495.612781)
+14 SENT 8 time(1166128495.612776)
+8 received its new upperbound 359 from 14 and its prev upperbound was 331
+8 received its new upperbound 346 from 15 and its prev upperbound was 331
+1 received its new upperbound 359 from 14 and its prev upperbound was 331
+1 received its new upperbound 346 from 15 and its prev upperbound was 331
+3 SENT 9 time(1166128495.617404)
+5 SENT 9 time(1166128495.615817)
+13 SENT 9 time(1166128495.618266)
+4 SENT 9 time(1166128495.615882)
+9 received its new upperbound 336 from 0 and its prev upperbound was 361
+9 received its new upperbound 331 from 3 and its prev upperbound was 336
+9 received its new upperbound 340 from 4 and its prev upperbound was 331
+9 received its new upperbound 346 from 5 and its prev upperbound was 331
+15 SENT 9 time(1166128495.619145)
+9 received its new upperbound 359 from 13 and its prev upperbound was 331
+14 SENT 9 time(1166128495.619154)
+9 received its new upperbound 359 from 14 and its prev upperbound was 331
+9 received its new upperbound 346 from 15 and its prev upperbound was 331
+3 SENT 10 time(1166128495.618041)
+13 SENT 10 time(1166128495.618840)
+5 SENT 10 time(1166128495.616417)
+4 SENT 10 time(1166128495.616557)
+10 received its new upperbound 331 from 3 and its prev upperbound was 336
+10 received its new upperbound 346 from 5 and its prev upperbound was 331
+10 received its new upperbound 359 from 13 and its prev upperbound was 331
+13 SENT 11 time(1166128495.619311)
+5 SENT 11 time(1166128495.616944)
+11 received its new upperbound 359 from 13 and its prev upperbound was 336
+3 SENT 11 time(1166128495.618674)
+11 received its new upperbound 346 from 5 and its prev upperbound was 336
+11 received its new upperbound 331 from 3 and its prev upperbound was 336
+13 SENT 12 time(1166128495.619560)
+4 SENT 11 time(1166128495.617195)
+10 received its new upperbound 340 from 4 and its prev upperbound was 331
+11 received its new upperbound 340 from 4 and its prev upperbound was 331
+12 received its new upperbound 359 from 13 and its prev upperbound was 336
+3 SENT 12 time(1166128495.619229)
+3 SENT 13 time(1166128495.619312)
+5 SENT 12 time(1166128495.617623)
+3 SENT 14 time(1166128495.619381)
+5 SENT 13 time(1166128495.617658)
+3 SENT 15 time(1166128495.619449)
+5 SENT 14 time(1166128495.617689)
+5 SENT 15 time(1166128495.617718)
+12 received its new upperbound 331 from 3 and its prev upperbound was 336
+4 SENT 12 time(1166128495.617932)
+12 received its new upperbound 346 from 5 and its prev upperbound was 331
+15 SENT 10 time(1166128495.621036)
+10 received its new upperbound 359 from 14 and its prev upperbound was 331
+12 received its new upperbound 340 from 4 and its prev upperbound was 331
+14 SENT 10 time(1166128495.621033)
+4 SENT 13 time(1166128495.618042)
+10 received its new upperbound 346 from 15 and its prev upperbound was 331
+4 SENT 14 time(1166128495.618143)
+4 SENT 15 time(1166128495.618279)
+13 SENT 14 time(1166128495.620798)
+15 SENT 11 time(1166128495.621800)
+14 SENT 11 time(1166128495.621797)
+11 received its new upperbound 359 from 14 and its prev upperbound was 331
+11 received its new upperbound 346 from 15 and its prev upperbound was 331
+Upper bound is being revised by 3 to 327:327
+I know the value was updated but its too early to communicate
+13 SENT 15 time(1166128495.621480)
+14 SENT 12 time(1166128495.622289)
+14 SENT 13 time(1166128495.622310)
+12 received its new upperbound 359 from 14 and its prev upperbound was 331
+15 SENT 12 time(1166128495.622403)
+12 received its new upperbound 346 from 15 and its prev upperbound was 331
+15 SENT 13 time(1166128495.622424)
+15 SENT 14 time(1166128495.622465)
+14 SENT 15 time(1166128495.622488)
+Upper bound is being revised by 4 to 339:339
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 14 to 351:351
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 4 to 338:338
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 4 to 337:337
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 14 to 345:345
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 14 to 337:337
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 4 to 327:327
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 327:327
+Sending....
+1 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 1 time(1166128496.000290)
+8 SENT 2 time(1166128496.000856)
+8 SENT 3 time(1166128496.000928)
+2 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 4 time(1166128496.000992)
+8 SENT 5 time(1166128496.001057)
+8 SENT 6 time(1166128496.001643)
+6 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 7 time(1166128496.002206)
+7 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 9 time(1166128496.002560)
+9 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 10 time(1166128496.003171)
+10 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 11 time(1166128496.003738)
+11 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 12 time(1166128496.004325)
+8 SENT 13 time(1166128496.004396)
+8 SENT 14 time(1166128496.004461)
+12 received its new upperbound 327 from 8 and its prev upperbound was 331
+8 SENT 15 time(1166128496.004524)
+Upper bound is being revised by 5 to 344:344
+Sending....
+1 received its new upperbound 344 from 5 and its prev upperbound was 327
+5 SENT 1 time(1166128496.120094)
+5 SENT 2 time(1166128496.120124)
+2 received its new upperbound 344 from 5 and its prev upperbound was 327
+7 received its new upperbound 344 from 5 and its prev upperbound was 327
+5 SENT 3 time(1166128496.120152)
+6 received its new upperbound 344 from 5 and its prev upperbound was 327
+5 SENT 4 time(1166128496.120166)
+9 received its new upperbound 344 from 5 and its prev upperbound was 327
+11 received its new upperbound 344 from 5 and its prev upperbound was 327
+12 received its new upperbound 344 from 5 and its prev upperbound was 327
+5 SENT 6 time(1166128496.120192)
+10 received its new upperbound 344 from 5 and its prev upperbound was 327
+5 SENT 7 time(1166128496.120222)
+5 SENT 8 time(1166128496.120255)
+5 SENT 9 time(1166128496.120285)
+5 SENT 10 time(1166128496.120313)
+5 SENT 11 time(1166128496.120344)
+5 SENT 12 time(1166128496.120376)
+5 SENT 13 time(1166128496.120404)
+5 SENT 14 time(1166128496.120432)
+5 SENT 15 time(1166128496.120513)
+Upper bound is being revised by 4 to 316:316
+Sending....
+1 received its new upperbound 316 from 4 and its prev upperbound was 327
+4 SENT 1 time(1166128496.153469)
+4 SENT 2 time(1166128496.153534)
+2 received its new upperbound 316 from 4 and its prev upperbound was 327
+4 SENT 3 time(1166128496.153691)
+4 SENT 5 time(1166128496.153793)
+4 SENT 6 time(1166128496.153928)
+4 SENT 7 time(1166128496.154034)
+6 received its new upperbound 316 from 4 and its prev upperbound was 327
+7 received its new upperbound 316 from 4 and its prev upperbound was 327
+4 SENT 8 time(1166128496.154152)
+4 SENT 9 time(1166128496.154252)
+4 SENT 10 time(1166128496.154354)
+9 received its new upperbound 316 from 4 and its prev upperbound was 327
+10 received its new upperbound 316 from 4 and its prev upperbound was 327
+4 SENT 11 time(1166128496.154483)
+11 received its new upperbound 316 from 4 and its prev upperbound was 327
+4 SENT 12 time(1166128496.154584)
+4 SENT 13 time(1166128496.154687)
+12 received its new upperbound 316 from 4 and its prev upperbound was 327
+4 SENT 14 time(1166128496.154764)
+4 SENT 15 time(1166128496.154861)
+Upper bound is being revised by 0 to 329:329
+Sending....
+1 received its new upperbound 329 from 0 and its prev upperbound was 316
+0 SENT 1 time(1166128496.218890)
+0 SENT 2 time(1166128496.219156)
+0 SENT 3 time(1166128496.219325)
+2 received its new upperbound 329 from 0 and its prev upperbound was 316
+0 SENT 4 time(1166128496.219559)
+0 SENT 5 time(1166128496.219739)
+0 SENT 6 time(1166128496.219908)
+0 SENT 7 time(1166128496.220078)
+6 received its new upperbound 329 from 0 and its prev upperbound was 316
+7 received its new upperbound 329 from 0 and its prev upperbound was 316
+0 SENT 8 time(1166128496.220299)
+0 SENT 9 time(1166128496.220578)
+0 SENT 10 time(1166128496.220745)
+9 received its new upperbound 329 from 0 and its prev upperbound was 316
+10 received its new upperbound 329 from 0 and its prev upperbound was 316
+0 SENT 11 time(1166128496.221045)
+11 received its new upperbound 329 from 0 and its prev upperbound was 316
+0 SENT 12 time(1166128496.221310)
+0 SENT 13 time(1166128496.221492)
+12 received its new upperbound 329 from 0 and its prev upperbound was 316
+0 SENT 14 time(1166128496.221693)
+0 SENT 15 time(1166128496.221871)
+Upper bound is being revised by 5 to 340:340
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 324:324
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 0 to 328:328
+I know the value was updated but its too early to communicate
+3 received its new upperbound 336 from 0 and its prev upperbound was 327
+3 received its new upperbound 340 from 4 and its prev upperbound was 327
+3 received its new upperbound 346 from 5 and its prev upperbound was 327
+3 received its new upperbound 359 from 13 and its prev upperbound was 327
+3 received its new upperbound 359 from 14 and its prev upperbound was 327
+3 received its new upperbound 346 from 15 and its prev upperbound was 327
+3 received its new upperbound 329 from 0 and its prev upperbound was 327
+3 received its new upperbound 316 from 4 and its prev upperbound was 327
+3 received its new upperbound 344 from 5 and its prev upperbound was 316
+3 received its new upperbound 327 from 8 and its prev upperbound was 316
+13 received its new upperbound 336 from 0 and its prev upperbound was 359
+13 received its new upperbound 331 from 3 and its prev upperbound was 336
+13 received its new upperbound 340 from 4 and its prev upperbound was 331
+13 received its new upperbound 346 from 5 and its prev upperbound was 331
+13 received its new upperbound 329 from 0 and its prev upperbound was 331
+13 received its new upperbound 316 from 4 and its prev upperbound was 329
+13 received its new upperbound 344 from 5 and its prev upperbound was 316
+13 received its new upperbound 327 from 8 and its prev upperbound was 316
+13 received its new upperbound 359 from 14 and its prev upperbound was 316
+15 received its new upperbound 336 from 0 and its prev upperbound was 346
+15 received its new upperbound 331 from 3 and its prev upperbound was 336
+13 received its new upperbound 346 from 15 and its prev upperbound was 316
+15 received its new upperbound 340 from 4 and its prev upperbound was 331
+15 received its new upperbound 346 from 5 and its prev upperbound was 331
+15 received its new upperbound 359 from 13 and its prev upperbound was 331
+14 received its new upperbound 336 from 0 and its prev upperbound was 337
+14 received its new upperbound 331 from 3 and its prev upperbound was 336
+14 received its new upperbound 340 from 4 and its prev upperbound was 331
+14 received its new upperbound 346 from 5 and its prev upperbound was 331
+14 received its new upperbound 359 from 13 and its prev upperbound was 331
+15 received its new upperbound 329 from 0 and its prev upperbound was 331
+15 received its new upperbound 316 from 4 and its prev upperbound was 329
+15 received its new upperbound 344 from 5 and its prev upperbound was 316
+15 received its new upperbound 327 from 8 and its prev upperbound was 316
+15 received its new upperbound 359 from 14 and its prev upperbound was 316
+14 received its new upperbound 329 from 0 and its prev upperbound was 331
+14 received its new upperbound 316 from 4 and its prev upperbound was 329
+14 received its new upperbound 344 from 5 and its prev upperbound was 316
+14 received its new upperbound 327 from 8 and its prev upperbound was 316
+14 received its new upperbound 346 from 15 and its prev upperbound was 316
+Upper bound is being revised by 8 to 323:323
+Sending....
+1 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 1 time(1166128496.538619)
+2 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 2 time(1166128496.538674)
+3 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 3 time(1166128496.538739)
+8 SENT 4 time(1166128496.538905)
+8 SENT 5 time(1166128496.538968)
+8 SENT 6 time(1166128496.539079)
+6 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 7 time(1166128496.539215)
+7 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 9 time(1166128496.539330)
+9 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 10 time(1166128496.539446)
+10 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 11 time(1166128496.539553)
+11 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 12 time(1166128496.539665)
+12 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 13 time(1166128496.539804)
+8 SENT 14 time(1166128496.539898)
+13 received its new upperbound 323 from 8 and its prev upperbound was 316
+8 SENT 15 time(1166128496.539961)
+14 received its new upperbound 323 from 8 and its prev upperbound was 316
+15 received its new upperbound 323 from 8 and its prev upperbound was 316
+Upper bound is being revised by 8 to 322:322
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 315:315
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 312:312
+I know the value was updated but its too early to communicate
+5 received its new upperbound 336 from 0 and its prev upperbound was 340
+5 received its new upperbound 331 from 3 and its prev upperbound was 336
+5 received its new upperbound 340 from 4 and its prev upperbound was 331
+5 received its new upperbound 359 from 13 and its prev upperbound was 331
+5 received its new upperbound 359 from 14 and its prev upperbound was 331
+5 received its new upperbound 346 from 15 and its prev upperbound was 331
+5 received its new upperbound 329 from 0 and its prev upperbound was 331
+5 received its new upperbound 316 from 4 and its prev upperbound was 329
+5 received its new upperbound 327 from 8 and its prev upperbound was 316
+5 received its new upperbound 323 from 8 and its prev upperbound was 316
+4 received its new upperbound 336 from 0 and its prev upperbound was 316
+4 received its new upperbound 331 from 3 and its prev upperbound was 316
+4 received its new upperbound 346 from 5 and its prev upperbound was 316
+4 received its new upperbound 359 from 13 and its prev upperbound was 316
+4 received its new upperbound 359 from 14 and its prev upperbound was 316
+4 received its new upperbound 346 from 15 and its prev upperbound was 316
+4 received its new upperbound 329 from 0 and its prev upperbound was 316
+4 received its new upperbound 344 from 5 and its prev upperbound was 316
+4 received its new upperbound 327 from 8 and its prev upperbound was 316
+4 received its new upperbound 323 from 8 and its prev upperbound was 316
+Upper bound is being revised by 8 to 311:311
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 310:310
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 306:306
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 8 to 300:300
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 6 to 299:299
+Sending....
+1 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 1 time(1166128497.256444)
+6 SENT 2 time(1166128497.257005)
+6 SENT 3 time(1166128497.257077)
+2 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 4 time(1166128497.257140)
+3 received its new upperbound 299 from 6 and its prev upperbound was 316
+4 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 5 time(1166128497.257203)
+5 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 7 time(1166128497.257648)
+7 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 8 time(1166128497.257754)
+6 SENT 9 time(1166128497.258336)
+9 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 10 time(1166128497.258909)
+10 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 11 time(1166128497.259482)
+11 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 12 time(1166128497.260063)
+6 SENT 13 time(1166128497.260134)
+12 received its new upperbound 299 from 6 and its prev upperbound was 316
+6 SENT 14 time(1166128497.260199)
+6 SENT 15 time(1166128497.260264)
+13 received its new upperbound 299 from 6 and its prev upperbound was 316
+14 received its new upperbound 299 from 6 and its prev upperbound was 316
+15 received its new upperbound 299 from 6 and its prev upperbound was 316
+8 received its new upperbound 329 from 0 and its prev upperbound was 300
+8 received its new upperbound 316 from 4 and its prev upperbound was 300
+8 received its new upperbound 344 from 5 and its prev upperbound was 300
+8 received its new upperbound 299 from 6 and its prev upperbound was 300
+Upper bound is being revised by 6 to 286:286
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 6 to 279:279
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 6 to 273:273
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 15 to 292:292
+Sending....
+1 received its new upperbound 292 from 15 and its prev upperbound was 299
+15 SENT 1 time(1166128497.891281)
+2 received its new upperbound 292 from 15 and its prev upperbound was 299
+3 received its new upperbound 292 from 15 and its prev upperbound was 299
+5 received its new upperbound 292 from 15 and its prev upperbound was 299
+7 received its new upperbound 292 from 15 and its prev upperbound was 299
+4 received its new upperbound 292 from 15 and its prev upperbound was 299
+9 received its new upperbound 292 from 15 and its prev upperbound was 299
+11 received its new upperbound 292 from 15 and its prev upperbound was 299
+13 received its new upperbound 292 from 15 and its prev upperbound was 299
+15 SENT 2 time(1166128497.891300)
+8 received its new upperbound 292 from 15 and its prev upperbound was 299
+10 received its new upperbound 292 from 15 and its prev upperbound was 299
+12 received its new upperbound 292 from 15 and its prev upperbound was 299
+15 SENT 3 time(1166128497.891318)
+15 SENT 4 time(1166128497.891337)
+15 SENT 5 time(1166128497.891355)
+15 SENT 6 time(1166128497.891375)
+15 SENT 7 time(1166128497.891393)
+15 SENT 8 time(1166128497.891412)
+15 SENT 9 time(1166128497.891430)
+15 SENT 10 time(1166128497.891447)
+15 SENT 11 time(1166128497.891464)
+15 SENT 12 time(1166128497.891480)
+15 SENT 13 time(1166128497.891499)
+15 SENT 14 time(1166128497.891510)
+14 received its new upperbound 292 from 15 and its prev upperbound was 299
+6 received its new upperbound 292 from 15 and its prev upperbound was 273
+Upper bound is being revised by 15 to 281:281
+I know the value was updated but its too early to communicate
+Upper bound is being revised by 14 to 286:286
+Sending....
+1 received its new upperbound 286 from 14 and its prev upperbound was 292
+14 SENT 1 time(1166128498.514841)
+2 received its new upperbound 286 from 14 and its prev upperbound was 292
+3 received its new upperbound 286 from 14 and its prev upperbound was 292
+5 received its new upperbound 286 from 14 and its prev upperbound was 292
+7 received its new upperbound 286 from 14 and its prev upperbound was 292
+4 received its new upperbound 286 from 14 and its prev upperbound was 292
+6 received its new upperbound 286 from 14 and its prev upperbound was 273
+9 received its new upperbound 286 from 14 and its prev upperbound was 292
+10 received its new upperbound 286 from 14 and its prev upperbound was 292
+13 received its new upperbound 286 from 14 and its prev upperbound was 292
+14 SENT 2 time(1166128498.514863)
+8 received its new upperbound 286 from 14 and its prev upperbound was 292
+11 received its new upperbound 286 from 14 and its prev upperbound was 292
+12 received its new upperbound 286 from 14 and its prev upperbound was 292
+14 SENT 3 time(1166128498.514882)
+14 SENT 4 time(1166128498.514902)
+14 SENT 5 time(1166128498.514921)
+14 SENT 6 time(1166128498.514941)
+14 SENT 7 time(1166128498.514959)
+14 SENT 8 time(1166128498.514978)
+14 SENT 9 time(1166128498.514997)
+14 SENT 10 time(1166128498.515017)
+14 SENT 11 time(1166128498.515036)
+14 SENT 12 time(1166128498.515055)
+14 SENT 13 time(1166128498.515075)
+14 SENT 15 time(1166128498.515085)
+15 received its new upperbound 286 from 14 and its prev upperbound was 281
+4 says the best was 316 and ubsuc:6 lbsuc:676541
+TIME:4.016439
+9 says the best was 315 and ubsuc:0 lbsuc:526330
+TIME:5.074997
+12 says the best was 367 and ubsuc:0 lbsuc:588939
+TIME:5.376001
+Upper bound is being revised by 2 to 285:285
+Sending....
+1 received its new upperbound 285 from 2 and its prev upperbound was 286
+2 SENT 1 time(1166128500.797806)
+2 SENT 3 time(1166128500.797918)
+3 received its new upperbound 285 from 2 and its prev upperbound was 286
+11 says the best was 338 and ubsuc:3 lbsuc:624765
+TIME:5.960006
+1 says the best was 311 and ubsuc:5 lbsuc:652493
+TIME:6.298616
+15 says the best was 281 and ubsuc:6 lbsuc:1187163
+TIME:6.355786
+3 says the best was 316 and ubsuc:5 lbsuc:784803
+TIME:7.409762
+6 says the best was 273 and ubsuc:7 lbsuc:863105
+TIME:7.428285
+14 says the best was 286 and ubsuc:5 lbsuc:1399267
+TIME:8.685624
+13 says the best was 302 and ubsuc:2 lbsuc:889777
+TIME:8.728817
+5 says the best was 340 and ubsuc:4 lbsuc:1043795
+TIME:8.868172
+8 says the best was 300 and ubsuc:10 lbsuc:1175469
+TIME:9.513261
+7 says the best was 297 and ubsuc:4 lbsuc:1010500
+TIME:10.065730
+Upper bound is being revised by 10 to 283:283
+Sending....
+1 additional process aborted (not shown)

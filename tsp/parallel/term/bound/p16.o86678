@@ -1,0 +1,140 @@
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+40:0	28:0	56:0	48:0	63:0	37:0	52:0	96:0	
+79:0	56:0	92:0	64:0	72:0	15:0	61:0	2:0	
+80:0	48:0	64:0	25:0	14:0	81:0	16:0	41:0	
+92:0	63:0	72:0	14:0	13:0	11:0	100:0	22:0	
+20:0	37:0	15:0	81:0	11:0	52:0	84:0	62:0	
+34:0	52:0	61:0	16:0	100:0	84:0	30:0	64:0	
+77:0	96:0	2:0	41:0	22:0	62:0	64:0	53:0	
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+
+20:5  28:1  2:7  14:4  11:5  11:4  16:3  2:2  
+There should now be 12 elements in the queue and nsend:0
+The time taken for the bfs was 0.015946 and 0 nodes were successful
+Processor 3 is now out of work and its best is 180!!!
+3 says the best was 180 and ubsuc:3 lbsuc:0.000000
+3 entered dfs 168 times and time : 0.006003 ; upperb changed:0 times and did not 0 times
+[3]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[3]:0.001789
+TIME:0.019381
+Processor 2 is now out of work and its best is 223!!!
+2 says the best was 223 and ubsuc:4 lbsuc:0.000000
+2 entered dfs 221 times and time : 0.006805 ; upperb changed:0 times and did not 0 times
+[2]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[2]:0.002077
+TIME:0.019692
+Processor 1 is now out of work and its best is 207!!!
+1 says the best was 207 and ubsuc:2 lbsuc:0.000000
+1 entered dfs 169 times and time : 0.005495 ; upperb changed:0 times and did not 0 times
+[1]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[1]:0.001782
+TIME:0.019448
+PROC 0 now out of work and its best is 209
+Time taken by processor 0 is 0.002379
+Processor 4 is now out of work and its best is 181!!!
+Processor 5 is now out of work and its best is 259!!!
+4 says the best was 181 and ubsuc:3 lbsuc:0.000000
+5 says the best was 259 and ubsuc:0 lbsuc:0.000000
+5 entered dfs 210 times and time : 0.002630 ; upperb changed:0 times and did not 0 times
+[5]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[5]:0.000942
+TIME:0.052952
+Processor 6 is now out of work and its best is 220!!!
+6 says the best was 220 and ubsuc:2 lbsuc:0.000000
+6 entered dfs 196 times and time : 0.002377 ; upperb changed:0 times and did not 0 times
+[6]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[6]:0.000795
+TIME:0.053643
+Processor 7 is now out of work and its best is 181!!!
+Processor 8 is now out of work and its best is 227!!!
+7 says the best was 181 and ubsuc:4 lbsuc:0.000000
+7 entered dfs 167 times and time : 0.001803 ; upperb changed:0 times and did not 0 times
+[7]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[7]:0.000686
+TIME:0.054307
+8 says the best was 227 and ubsuc:2 lbsuc:0.000000
+8 entered dfs 184 times and time : 0.002076 ; upperb changed:0 times and did not 0 times
+[8]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[8]:0.000724
+TIME:0.054536
+Processor 9 is now out of work and its best is 234!!!
+9 says the best was 234 and ubsuc:1 lbsuc:0.000000
+9 entered dfs 209 times and time : 0.002052 ; upperb changed:0 times and did not 0 times
+[9]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[9]:0.000840
+TIME:0.055324
+Processor 11 is now out of work and its best is 276!!!
+11 says the best was 276 and ubsuc:0 lbsuc:0.000000
+11 entered dfs 149 times and time : 0.001311 ; upperb changed:0 times and did not 0 times
+[11]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[11]:0.000614
+TIME:0.055950
+Processor 10 is now out of work and its best is 222!!!
+10 says the best was 222 and ubsuc:1 lbsuc:0.000000
+10 entered dfs 249 times and time : 0.002837 ; upperb changed:0 times and did not 0 times
+[10]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[10]:0.000999
+TIME:0.056496
+Processor 13 is now out of work and its best is 180!!!
+Processor 12 is now out of work and its best is 256!!!
+12 says the best was 256 and ubsuc:0 lbsuc:0.000000
+12 entered dfs 171 times and time : 0.001582 ; upperb changed:0 times and did not 0 times
+[12]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[12]:0.000694
+13 says the best was 180 and ubsuc:1 lbsuc:0.000000
+TIME:0.056755
+13 entered dfs 104 times and time : 0.000915 ; upperb changed:0 times and did not 0 times
+4 entered dfs 156 times and time : 0.001995 ; upperb changed:0 times and did not 0 times
+[4]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[4]:0.000735
+TIME:0.053037
+[13]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[13]:0.000406
+TIME:0.056719
+Processor 14 is now out of work and its best is 238!!!
+Processor 15 is now out of work and its best is 223!!!
+15 says the best was 223 and ubsuc:3 lbsuc:0.000000
+15 entered dfs 242 times and time : 0.003150 ; upperb changed:0 times and did not 0 times
+[15]:NUMBER OF LEAVES 0.000000
+
+0 says the best was 180 and ubsuc:1 lbsuc:4
+0 eneter dfs 342 times and time was 0.006119 and upperbound changed 0 times and did not 0 times
+[0]:NUMBER OF LEAVES -1073747952
+TOTAL TIME INSIDE DFS[0]:0.001245
+TIME:0.041972
+TOTAL TIME INSIDE DFS[15]:0.001138
+TIME:0.059046
+14 says the best was 238 and ubsuc:1 lbsuc:0.000000
+14 entered dfs 232 times and time : 0.002703 ; upperb changed:0 times and did not 0 times
+[14]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[14]:0.001072
+TIME:0.059074

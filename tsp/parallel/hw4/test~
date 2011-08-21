@@ -1,0 +1,7 @@
+#!/bin/bash
+#PBS -N hjob
+#PBS -V
+#PBS -l nodes=2
+#PBS -q eecs587
+cd ~/hw4
+mpirun -np 2 ./a.out

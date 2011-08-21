@@ -1,0 +1,17 @@
+=>> PBS: job killed: walltime 3621 exceeded limit 3600
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx014
+PID:  1846
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx014
+PID:  1845
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------
+Failed to find or execute the following executable:
+
+Host:       nyx077
+Executable: ./a.out
+
+Cannot continue.
+--------------------------------------------------------------------------
+[nyx077:05888] [0,0,1] ORTE_ERROR_LOG: Fatal in file pls_fork_module.c at line 559
+[nyx077:05888] [0,0,1] ORTE_ERROR_LOG: Fatal in file rmgr_urm.c at line 177
+[nyx077:05888] [0,0,1] ORTE_ERROR_LOG: Fatal in file orted.c at line 362

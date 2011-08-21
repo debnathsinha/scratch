@@ -1,0 +1,11 @@
+Hi in odd processor 1
+Hi in even processor 2 
+Hi in even processor 0 
+Hi in odd processor 3
+Hi in even processor 0 
+Hi in even processor 2 
+sent the message in even proc0
+sent the message in even proc2
+0 received in odd 0 
+4 received in odd 2 
+sent the message in odd 2

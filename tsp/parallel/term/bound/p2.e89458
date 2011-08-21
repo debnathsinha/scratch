@@ -1,0 +1,50 @@
+=>> PBS: job killed: walltime 3626 exceeded limit 3600
+mpirun: killing job...
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  6110
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  6109
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  6110
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  6109
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  6110
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx042
+PID:  6109
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------

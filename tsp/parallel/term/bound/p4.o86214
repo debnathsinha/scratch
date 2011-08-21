@@ -1,0 +1,65 @@
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	52:0	96:0	
+40:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	41:0	13:0	11:0	100:0	
+79:0	64:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	50:0	98:0	30:0	78:0	53:0	77:0	
+80:0	72:0	52:0	41:0	90:0	29:0	36:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	
+92:0	15:0	84:0	90:0	90:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	86:0	27:0	
+20:0	61:0	62:0	29:0	35:0	54:0	38:0	77:0	52:0	67:0	54:0	4:0	44:0	94:0	94:0	
+34:0	2:0	30:0	36:0	7:0	38:0	73:0	29:0	74:0	64:0	36:0	69:0	17:0	45:0	89:0	
+77:0	25:0	64:0	81:0	3:0	77:0	29:0	83:0	34:0	23:0	90:0	36:0	69:0	96:0	59:0	
+28:0	14:0	53:0	92:0	46:0	52:0	74:0	34:0	66:0	86:0	44:0	93:0	40:0	82:0	69:0	
+56:0	81:0	50:0	7:0	7:0	67:0	64:0	23:0	86:0	92:0	49:0	22:0	96:0	93:0	15:0	
+48:0	16:0	98:0	95:0	24:0	54:0	36:0	90:0	44:0	49:0	89:0	65:0	44:0	62:0	29:0	
+63:0	41:0	30:0	53:0	98:0	4:0	69:0	36:0	93:0	22:0	65:0	79:0	31:0	45:0	23:0	
+37:0	13:0	78:0	9:0	91:0	44:0	17:0	69:0	40:0	96:0	44:0	31:0	19:0	28:0	56:0	
+52:0	11:0	53:0	20:0	86:0	94:0	45:0	96:0	82:0	93:0	62:0	45:0	28:0	42:0	17:0	
+96:0	100:0	77:0	67:0	27:0	94:0	89:0	59:0	69:0	15:0	29:0	23:0	56:0	17:0	91:0	
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+20:5  2:6  22:2  7:9  3:7  4:11  2:1  3:4  14:1  7:4  16:1  4:5  9:3  11:1  15:9  
+There should now be 44 elements in the queue and nsend:0
+The time taken for the bfs was 0.010924 and 0 nodes were successful
+1 received its new upperbound 313 from 0 and its prev upperbound was 351
+2 received its new upperbound 313 from 0 and its prev upperbound was 351
+3 received its new upperbound 313 from 0 and its prev upperbound was 322
+1 received its new upperbound 308 from 2 and its prev upperbound was 313
+3 received its new upperbound 308 from 2 and its prev upperbound was 313
+1 received its new upperbound 311 from 0 and its prev upperbound was 308
+3 received its new upperbound 311 from 0 and its prev upperbound was 308
+2 received its new upperbound 311 from 0 and its prev upperbound was 305
+2 received its new upperbound 289 from 0 and its prev upperbound was 305
+3 received its new upperbound 289 from 0 and its prev upperbound was 308
+1 received its new upperbound 289 from 0 and its prev upperbound was 308
+1 received its new upperbound 283 from 3 and its prev upperbound was 289
+2 received its new upperbound 283 from 3 and its prev upperbound was 289
+1 received its new upperbound 279 from 2 and its prev upperbound was 283
+3 received its new upperbound 279 from 2 and its prev upperbound was 264
+3 received its new upperbound 277 from 1 and its prev upperbound was 264
+2 received its new upperbound 277 from 1 and its prev upperbound was 275
+Processor 1 is now out of work and its best is 277!!!
+1 says the best was 277 and ubsuc:1 lbsuc:0.000000
+1 entered dfs 6081164 times and time : 315.415728 ; upperb changed:5 times and did not 1 times
+[1]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[1]:39.695025
+TIME:39.705754
+0 received its new upperbound 277 from 1 and its prev upperbound was 280
+Processor 2 is now out of work and its best is 275!!!
+2 says the best was 275 and ubsuc:4 lbsuc:0.000000
+0 received its new upperbound 275 from 2 and its prev upperbound was 277
+2 entered dfs 4774154 times and time : 318.530382 ; upperb changed:3 times and did not 2 times
+[2]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[2]:40.262995
+TIME:40.315197
+0 received its new upperbound 264 from 3 and its prev upperbound was 275
+Processor 3 is now out of work and its best is 264!!!
+3 says the best was 264 and ubsuc:10 lbsuc:0.000000
+3 entered dfs 4956605 times and time : 349.962639 ; upperb changed:3 times and did not 3 times
+[3]:NUMBER OF LEAVES 0.000000
+TOTAL TIME INSIDE DFS[3]:43.699428
+TIME:43.750808
+PROC 0 now out of work and its best is 280
+Time taken by processor 0 is 46.898266

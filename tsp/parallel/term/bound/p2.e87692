@@ -1,0 +1,17 @@
+=>> PBS: job killed: walltime 3639 exceeded limit 3600
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx021
+PID:  1087
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: A process refused to die!
+
+Host: nyx021
+PID:  1086
+
+This process may still be running and/or consuming resources.
+--------------------------------------------------------------------------

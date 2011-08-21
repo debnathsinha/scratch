@@ -1,0 +1,215 @@
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+
+
+
+
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+85:0	40:0	79:0	80:0	92:0	20:0	34:0	77:0	28:0	56:0	48:0	63:0	37:0	
+40:0	52:0	96:0	92:0	64:0	72:0	15:0	61:0	2:0	25:0	14:0	81:0	16:0	
+79:0	96:0	41:0	13:0	11:0	100:0	22:0	52:0	84:0	62:0	30:0	64:0	53:0	
+80:0	92:0	13:0	50:0	98:0	30:0	78:0	53:0	77:0	41:0	90:0	29:0	36:0	
+92:0	64:0	11:0	98:0	81:0	92:0	7:0	95:0	53:0	9:0	20:0	67:0	90:0	
+20:0	72:0	100:0	30:0	92:0	35:0	7:0	3:0	46:0	7:0	24:0	98:0	91:0	
+34:0	15:0	22:0	78:0	7:0	7:0	86:0	27:0	54:0	38:0	77:0	52:0	67:0	
+77:0	61:0	52:0	53:0	95:0	3:0	27:0	54:0	4:0	44:0	94:0	94:0	73:0	
+28:0	2:0	84:0	77:0	53:0	46:0	54:0	4:0	29:0	74:0	64:0	36:0	69:0	
+56:0	25:0	62:0	41:0	9:0	7:0	38:0	44:0	74:0	17:0	45:0	89:0	83:0	
+48:0	14:0	30:0	90:0	20:0	24:0	77:0	94:0	64:0	45:0	34:0	23:0	90:0	
+63:0	81:0	64:0	29:0	67:0	98:0	52:0	94:0	36:0	89:0	23:0	36:0	69:0	
+37:0	16:0	53:0	36:0	90:0	91:0	67:0	73:0	69:0	83:0	90:0	69:0	96:0	
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+THERE ARE 204 ELEMENTS IN QUEUE and k1/numprocs:12
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+
+20:5  2:8  11:4  13:2  7:6  3:7  7:5  3:5  2:1  7:5  14:1  23:10  16:1  
+I proc 3 have 13 elements in queue
+I proc 2 have 13 elements in queue
+I proc 1 have 13 elements in queue
+There should now be 13 elements in the queue and nsend:0
+The time taken for the bfs was 0.032690 and 0 nodes were successful
+I proc 4 have 13 elements in queue
+I proc 6 have 13 elements in queue
+I proc 5 have 13 elements in queue
+I proc 7 have 13 elements in queue
+I proc 8 have 13 elements in queue
+I proc 9 have 13 elements in queue
+I proc 10 have 13 elements in queue
+I proc 11 have 13 elements in queue
+I proc 12 have 12 elements in queue
+I proc 13 have 12 elements in queue
+I proc 14 have 12 elements in queue
+I proc 15 have 12 elements in queue
+I proc 0 have 13 nodes in my queue: 0Processor 0 has started working
+Processor 7 is now out of work and its best is 260!!!
+I 7 am asking 8 for work
+Processor 15 is now out of work and its best is 240!!!
+I 15 am asking 0 for work
+Processor 11 is now out of work and its best is 212!!!
+I 11 am asking 12 for work
+Processor 4 is now out of work and its best is 220!!!
+I 4 am asking 5 for work
+Processor 6 is now out of work and its best is 243!!!
+I 6 am asking 7 for work
+Processor 2 is now out of work and its best is 231!!!
+I 2 am asking 3 for work
+Processor 12 is now out of work and its best is 250!!!
+I 12 am asking 13 for work
+Processor 8 is now out of work and its best is 245!!!
+I 8 am asking 9 for work
+Processor 5 is now out of work and its best is 254!!!
+I 5 am asking 6 for work
+Processor 13 is now out of work and its best is 249!!!
+I 13 am asking 14 for work
+Processor 10 is now out of work and its best is 271!!!
+I 10 am asking 11 for work
+Processor 14 is now out of work and its best is 257!!!
+I 14 am asking 15 for work
+Processor 9 is now out of work and its best is 247!!!
+I 9 am asking 10 for work
+
+
+PROC 0 now out of work and its best is 219
+I 0 am asking 1 for work
+Processor 3 is now out of work and its best is 231!!!
+I 3 am asking 4 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 3 8118 112 from 1
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 15 to 1 with tag:25
+The best is 219
+I 0 am asking 1 for work
+[1]:0 asked for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 2 7674 118 from 1
+ [[15]]: I got back 1 26 
+Methinks I got work to do
+(15)Received 9 7550 121 from 1
+The best is 219
+I 0 am asking 1 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 7 7038 142 from 1
+The best is 219
+I 0 am asking 1 for work
+[1]:0 asked for work
+ [[0]]: I got back 1 26 
+Methinks I got work to do
+(0)Received 1 4092 53 from 1
+The best is 240
+I 15 am asking 0 for work
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 15 to 1 with tag:25
+[1]:0 asked for work
+ [[15]]: I got back 1 26 
+Methinks I got work to do
+(15)Received 8 7928 220 from 1
+The best is 240
+I 15 am asking 0 for work
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 15 to 1 with tag:25
+[1]:0 asked for work
+ [[15]]: I got back 1 26 
+Methinks I got work to do
+(15)Received 3 8164 202 from 1
+[15]:14 asked for work
+I 15 am out of work too
+I 15 am fwding the mssg I got from 14 to 0 with tag:25
+The best is 240
+I 15 am asking 0 for work
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 14 to 1 with tag:25
+[0]:15 asked for work
+[1]:0 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 15 to 1 with tag:25
+[1]:0 asked for work
+ [[15]]: I got back 1 26 
+Methinks I got work to do
+(15)Received 5 8028 104 from 1
+ [[14]]: I got back 1 26 
+Methinks I got work to do
+(14)Received 10 7132 136 from 1
+[14]:13 asked for work
+I 14 am out of work too
+I 14 am fwding the mssg I got from 13 to 15 with tag:25
+[15]:14 asked for work
+I 15 am out of work too
+I 15 am fwding the mssg I got from 13 to 0 with tag:25
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 13 to 1 with tag:25
+[1]:0 asked for work
+ [[13]]: I got back 1 26 
+Methinks I got work to do
+(13)Received 12 3836 111 from 1
+[13]:12 asked for work
+I 13 am out of work too
+I 13 am fwding the mssg I got from 12 to 14 with tag:25
+[14]:13 asked for work
+I 14 am out of work too
+I 14 am fwding the mssg I got from 12 to 15 with tag:25
+[15]:14 asked for work
+I 15 am out of work too
+I 15 am fwding the mssg I got from 12 to 0 with tag:25
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 12 to 1 with tag:25
+[1]:0 asked for work
+I 1 am out of work too
+I 1 am fwding the mssg I got from 12 to 2 with tag:25
+The best is 257
+I 14 am asking 15 for work
+[15]:14 asked for work
+I 15 am out of work too
+I 15 am fwding the mssg I got from 14 to 0 with tag:25
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 14 to 1 with tag:25
+[1]:0 asked for work
+I 1 am out of work too
+I 1 am fwding the mssg I got from 14 to 2 with tag:25
+The best is 249
+I 13 am asking 14 for work
+The best is 240
+I 15 am asking 0 for work
+[0]:15 asked for work
+I 0 am out of work too
+I 0 am fwding the mssg I got from 15 to 1 with tag:25
+[1]:0 asked for work
+I 1 am out of work too
+I 1 am fwding the mssg I got from 15 to 2 with tag:25
+The best is 212
+I 0 am asking 1 for work
+Processor 1 is now out of work and its best is 306!!!
+I 1 am asking 2 for work
