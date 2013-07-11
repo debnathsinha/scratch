@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>WebWorker</title>
+<script type="text/javascript" src="myworker.js">
+</script>
+</head>
+<body>
+<div id="worker-div">
+Worker
+</div>
+</body>
+</html>

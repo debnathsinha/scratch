@@ -1,0 +1,24 @@
+var DELAY=300, clicks = 0, timer = null;
+$(function() {
+});
+$(document).ready(function() {
+
+    $('#app')
+	.bind("click", function(e) {
+	    clicks++;
+	    if(clicks == 1) {
+		timer = setTimeout( function() {
+		    alert("Single click");
+		    clicks = 0;
+		}, DELAY);
+	    } else {
+		clearTimeout(timer);
+		alert("Double Click");
+		clicks = 0;
+	    }
+	})
+	.bind("dblclick", function(e) {
+	    e.preventDefault();
+	});
+
+});

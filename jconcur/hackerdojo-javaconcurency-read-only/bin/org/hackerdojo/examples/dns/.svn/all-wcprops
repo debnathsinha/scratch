@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/56/trunk/examples/src/main/java/org/hackerdojo/examples/dns
+END
+QType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/QType.java
+END
+DnsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsResponse.java
+END
+Opcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/Opcode.java
+END
+RRClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/RRClass.java
+END
+DnsQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsQuery.java
+END
+Encodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/Encodable.java
+END
+InvalidRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/InvalidRequestException.java
+END
+BitHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/BitHelper.java
+END
+DnsRblServerMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/56/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsRblServerMain.java
+END
+DnsLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsLabel.java
+END
+RRType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/RRType.java
+END
+DnsName.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/56/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsName.java
+END
+QClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/QClass.java
+END
+ResourceRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/ResourceRecord.java
+END
+DnsClientMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/56/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsClientMain.java
+END
+ResponseCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/ResponseCode.java
+END
+DnsRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/54/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsRequestHandler.java
+END
+DnsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/56/trunk/examples/src/main/java/org/hackerdojo/examples/dns/DnsRequest.java
+END

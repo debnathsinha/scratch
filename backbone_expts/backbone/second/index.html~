@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Second try for backbone app</title>
+<script type"text/javascript" src="js/lib/jquery.js">
+</script>
+<script type"text/javascript" src="js/lib/underscore.js">
+</script>
+<script type"text/javascript" src="js/lib/backbone.js">
+</script>
+<script type"text/javascript" src="js/lib/backbone-localstorage.js">
+</script>
+<script type"text/javascript" src="app.js">
+</script>
+</head>
+<body>
+<div id="todoapp">
+  <div id="new-todo">
+    <input type="text" placeholder="New todo">
+  </div>
+  <div id="todo-list">
+    <ul>
+      List of todos
+    </ul>
+</div>
+<script type="text/template" id="todo-view-template">
+  Todo Model: { title: <%= title %>, done: <%= done %> }
+</script>
+</body>
+</html>

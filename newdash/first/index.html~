@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>New Dashboards</title>
+</head>
+<body>
+<div id="container">
+  <div id="column1">
+    <div id="component1">
+      <canvas id="canvascomponent1"/>
+      <div id="formatcomponent1">
+	<output id="labelcomponent1">
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

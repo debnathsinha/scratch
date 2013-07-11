@@ -1,0 +1,17 @@
+var w;
+function startWorker() {
+if( typeof(Worker) !== 'undefined' ) {
+  if( typeof(w) == 'undefined' ) {
+    w = new Worker('myworker.js');
+  }
+  w.onmessage = function(event) {
+      console.log("Worker said " + event.data);
+  }
+  w.postMessage('Are you working?');
+} else {
+  document.getElementById("result").innerHTML='Webworkers not supported';
+}
+}
+function stopWorker() {
+  w.terminate();
+}

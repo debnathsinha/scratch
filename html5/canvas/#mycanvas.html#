@@ -1,0 +1,8 @@
+<html>
+<title>My canvas</title>
+<body onload="initGame();">
+<script type="text/javascript" src="mycanvas.js"></script>
+<link rel="stylesheet" type="text/css" href="mycanvas.css">
+<input type="t
+</body>
+</html>

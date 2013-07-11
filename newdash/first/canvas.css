@@ -1,0 +1,29 @@
+#component1{
+    width: 400;
+    height: 200;
+    -webkit-perspective: 600px;
+    -webkit-transform-style: preserve-3d;
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1.5s;
+    -webkit-backface-visibility: hidden;
+}
+
+.flipped {
+    -webkit-transform : rotateY(180deg);
+}
+
+#canvascomponent1 {
+    position: absolute;
+    border: 2px solid red;
+}
+
+#formatcomponent1 {
+    position: absolute;
+    -webkit-transform: rotateY(180deg);
+}
+
+#flipbutton {
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}

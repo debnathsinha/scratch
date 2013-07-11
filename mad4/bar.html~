@@ -1,0 +1,9 @@
+<html>
+<body>
+<script type="text/javascript">
+var stateObj = { foo: "bar" };
+history.pushState(stateObj, "page 2", "bar.html");
+</script>
+foo
+</body>
+</html>

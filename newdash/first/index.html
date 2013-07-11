@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>New Dashboards</title>
+<script type="text/javascript" src="libs/jquery.js">
+</script>
+<script type="text/javascript" src="libs/underscore.js">
+</script>
+<script type="text/javascript" src="libs/backbone.js">
+</script>
+<script type="text/javascript">
+    function flipMe() {
+        var element = document.getElementById('component1');
+	element.className = (element.className == 'card') ? 'card flipped' : 'card';
+    }
+</script>
+<link rel="stylesheet" href="canvas.css"/>
+</head>
+<body>
+<div id="container">
+  <div id="column1">
+    <div id="component1" onclick="flipMe();" class="card">
+      <div id="canvascomponentdiv">
+	<canvas id="canvascomponent1"/>
+      </div>
+      <div id="formatcomponent1">
+	<p>Format this component</p>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="chart.js">
+</script>
+<script type="text/javascript" src="app.js">
+</script>
+</body>
+</html>

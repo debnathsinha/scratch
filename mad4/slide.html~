@@ -1,0 +1,15 @@
+<html>
+<body>
+<script type="text/javascript" src="slide.js"></script>
+<div id="slide1_images">
+  <img src="css3.bradshawenterprises.com/images/Cirques.jpg">
+  <img src="css3.bradshawenterprises.com/images/Clown%20Fish.jpg">
+  <img src="css3.bradshawenterprises.com/images/Stones.jpg">
+  <img src="css3.bradshawenterprises.com/images/Summit.jpg">
+</div>
+<p id="slide1_controls">
+  <span class="selected">Image1</span>
+  <span>Image2</span>
+  <span>Image3</span>
+  <span>Image4</span>
+</p>

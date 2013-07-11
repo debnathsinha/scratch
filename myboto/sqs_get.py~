@@ -1,0 +1,7 @@
+import simplejson, boto, do_some_work
+sqs = boto.connect_sqs()
+q = sqs.get_queue('my_msg_pump')
+message = q.read()
+if message is not None :
+    msg_data = simplejson.loads(message.get_body())
+    print msg_data

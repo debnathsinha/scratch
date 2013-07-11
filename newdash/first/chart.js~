@@ -1,0 +1,11 @@
+var canvas;
+var ctx;
+var width;
+var height;
+
+function init(width, height) {
+
+}
+
+
+init(width,height);

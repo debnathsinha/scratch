@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Backbone.js TodoMVC</title>
+  <link rel="stylesheet" href="assets/base.css">
+</head>
+<body>
+  <script src="js/lib/jquery.js"/>
+  <script src="js/lib/underscore.js"/>
+  <script src="js/lib/backbone.js"/>
+  <script src="js/lib/backbone.localstorage.js"/>
+  <script src="js/models/todo.js"/>
+  <script src="text/template" id="item-template"/>
+  <script src="text/template" id="stats-template"/>
+  <script src="js/collections/todos.js"/>
+  <script src="js/views/todo.js"/>
+  <script src="js/views/app.js"/>
+  <script src="js/routers/router.js"/>
+  <script src="js/app.js"/>
+</body>
+</html>

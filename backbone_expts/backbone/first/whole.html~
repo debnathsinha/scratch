@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Sample backbone todo app</title>
+</head>
+<body>
+<script type="text/javascript" src="whole.js">
+</script>
+</body>
+</html>

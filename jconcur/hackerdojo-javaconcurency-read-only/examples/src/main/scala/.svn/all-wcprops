@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/60/trunk/examples/src/main/scala
+END
+ActorDemo.scala
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/trunk/examples/src/main/scala/ActorDemo.scala
+END
+Rock.scala
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/trunk/examples/src/main/scala/Rock.scala
+END
+Paper.scala
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/trunk/examples/src/main/scala/Paper.scala
+END
+Scissors.scala
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/trunk/examples/src/main/scala/Scissors.scala
+END
+RPSMove.scala
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/examples/src/main/scala/RPSMove.scala
+END
+RockPaperScissorsPlayer.scala
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/60/trunk/examples/src/main/scala/RockPaperScissorsPlayer.scala
+END

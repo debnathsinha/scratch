@@ -1,0 +1,10 @@
+<h1>Register</h1>
+
+<form>
+<fieldset>
+<legend>Your Name</legend>
+<label>
+  First
+  <input type="text" name = "firstname"/>
+</label>
+</fieldset>

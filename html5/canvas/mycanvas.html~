@@ -1,0 +1,6 @@
+<html>
+<title>My canvas</title>
+<body onload="initGame();">
+<script type="text/javascript" src="mycanvas.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+import simplejson, boto, uuid
+sqs = boto.connect_sqs()
+q = sqs.create_queue('my_msg_pump')
+data = simplejson.dumps({'foo' : 'bar'})
+data = simplejson.dumps([1,2,3,{'4' : 5, '6' : 7 }])

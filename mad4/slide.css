@@ -1,0 +1,20 @@
+#slide1_container {
+    width: 450px;
+    height: 281px;
+    overflow:hidden;
+    margin:0 auto;
+}
+
+#slide1_images {
+    width:1800px;
+    
+    -webkit-transition:all 1.0s ease-in-out;
+    -maz-transition:all 1.0s ease-in-out;
+    -o-trantition: all 1.0s ease-in-out;
+    transition: all 1.0s ease-in-out;
+}
+#slide1_images img {
+    padding:0;
+    margin:0;
+    float:left;
+}

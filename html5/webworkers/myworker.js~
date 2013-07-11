@@ -1,0 +1,4 @@
+var worker = new Worker('my_task.js');
+worker.onmessage = function(event) {
+    console.log("Called back by the worker!\n");
+}

@@ -1,0 +1,45 @@
+info it worked if it ends with ok
+verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'config/mail' ]
+info using npm@1.1.0-beta-10
+info using node@v0.6.7
+verbose config file /Users/dsinha/.npmrc
+verbose config file /usr/local/etc/npmrc
+verbose config file /usr/local/lib/node_modules/npm/npmrc
+verbose caching /Users/dsinha/code/nodeapp/socialnet/package.json
+verbose loadDefaults my-social-network@0.0.1
+verbose caching /Users/dsinha/code/nodeapp/socialnet/node_modules/connect/package.json
+verbose loadDefaults connect@2.7.2
+verbose caching /Users/dsinha/code/nodeapp/socialnet/node_modules/jade/package.json
+verbose loadDefaults jade@0.28.1
+verbose caching /Users/dsinha/code/nodeapp/socialnet/node_modules/express/package.json
+verbose loadDefaults express@3.0.6
+verbose caching /Users/dsinha/code/nodeapp/socialnet/node_modules/mongoose/package.json
+verbose loadDefaults mongoose@3.5.4
+verbose caching /Users/dsinha/code/nodeapp/socialnet/node_modules/node-inspector/package.json
+verbose loadDefaults node-inspector@0.2.0beta3
+verbose caching /Users/dsinha/code/nodeapp/socialnet/node_modules/nodemailer/package.json
+verbose loadDefaults nodemailer@0.3.37
+verbose from cache /Users/dsinha/code/nodeapp/socialnet/package.json
+verbose into /Users/dsinha/code/nodeapp/socialnet [ 'config/mail' ]
+verbose cache add config/mail
+verbose cache add [ 'config/mail', null ]
+silly cache add: name, spec, args [ undefined, 'config/mail', [ 'config/mail', null ] ]
+verbose parsed url { pathname: 'config/mail',
+verbose parsed url   path: 'config/mail',
+verbose parsed url   href: 'config/mail' }
+ERR! Could not install: config/mail
+ERR! Error: ENOENT, no such file or directory 'config/mail'
+ERR! Report this *entire* log at:
+ERR!     <http://github.com/isaacs/npm/issues>
+ERR! or email it to:
+ERR!     <npm-@googlegroups.com>
+ERR! 
+ERR! System Darwin 10.8.0
+ERR! command "node" "/usr/local/bin/npm" "install" "config/mail"
+ERR! cwd /Users/dsinha/code/nodeapp/socialnet
+ERR! node -v v0.6.7
+ERR! npm -v 1.1.0-beta-10
+ERR! path config/mail
+ERR! code ENOENT
+ERR! message ENOENT, no such file or directory 'config/mail'
+verbose exit [ 1, true ]
